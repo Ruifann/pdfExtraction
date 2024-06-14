@@ -5,10 +5,13 @@ import fitz
 import re
 
 
-def extract_tables(pdf_path):
-
+def extract_tables(pdf_path, output_folder):
     tables = tabula.read_pdf(pdf_path, pages='all', multiple_tables=True)
     logging.info(f"Number of tables extracted: {len(tables)}")
+    for index, table in enumerate(tables):
+        csv_path = f"{output_folder}/Table_{index + 1}.csv"
+        table.to_csv(csv_path, index=False)
+        logging.info(f"Table {index + 1} saved to {csv_path}")
     return tables
 
 
@@ -50,7 +53,7 @@ def extract_descriptions_and_values(text):
 def main():
     logging.basicConfig(level=logging.INFO)
     pdf_path = "Institution_Information.pdf"
-    tables = extract_tables(pdf_path)
+    tables = extract_tables(pdf_path, "output_folder")
     if tables:
         save_tables(tables)
         first_table_csv = 'Institution_Information_table_1.csv'
