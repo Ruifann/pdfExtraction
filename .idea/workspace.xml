@@ -4,84 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8131e4b9-db18-402e-8334-2eeaaaef0ba4" name="Changes" comment="Fourth Commit: Cleaned and Visualized ACHA datasets.">
-      <change afterPath="$PROJECT_DIR$/NCHA-IIIb_FALL_2023_REFERENCE_GROUP_EXECUTIVE_SUMMARY_03.19.24.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Executive_Summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Figures/Impediments_to_Academic_Performance_by_Gender.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_13.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_17.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_18.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_21.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_22.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_25.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_26.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_28.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_29.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_31.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_32.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_33.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_34.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_35.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_36.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_37.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_38.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_39.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_40.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_41.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_42.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_43.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_44.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_45.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_46.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_47.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_48.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_49.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_50.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_51.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_52.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_53.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_54.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_55.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_56.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_57.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_58.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_59.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_60.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_61.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_62.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_63.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_64.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_65.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_66.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_67.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_8.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_9.csv" afterDir="false" />
+    <list default="true" id="8131e4b9-db18-402e-8334-2eeaaaef0ba4" name="Changes" comment="Fifth Commit: Chart Correction and New Data Visualization for NCHA.">
+      <change afterPath="$PROJECT_DIR$/NCHA_Figures/NCHA_and_USC_Student_Population_Comparison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NCHA_Tables/Table_68.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/CSV_Level_of_Student_by_Race.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Alabama A &amp; M University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Appalachian State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Arkansas Colleges of Health Education_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Boston College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Boston University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Brown University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California Institute of the Arts_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State Polytechnic University-Pomona_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University Maritime Academy_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Bakersfield_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Channel Islands_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Chico_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Dominguez Hills_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-East Bay_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fresno_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fullerton_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Long Beach_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Los Angeles_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Monterey Bay_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Northridge_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Sacramento_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Bernardino_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Marcos_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Stanislaus_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Carnegie Mellon University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Clark University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Clemson University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Coastal Carolina University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Columbia University in the City of New York_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Cornell University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Dallas College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Dartmouth College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Duke University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Emory University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Georgia Institute of Technology-Main Campus_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Guilford Technical Community College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Hofstra University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Idaho State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Illinois Institute of Technology_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Indiana University-Bloomington_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Kansas State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Kennesaw State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Lincoln University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Louisiana State University and Agricultural &amp; Mechanical College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Maryland Institute College of Art_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Maryville University of Saint Louis_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Massachusetts College of Liberal Arts_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Massachusetts Institute of Technology_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Michigan State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Middlebury College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/New York Film Academy_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/North Carolina State University at Raleigh_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northeastern University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northern Arizona University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northern Virginia Community College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northwestern University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Oberlin College_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Ohio State University-Main Campus_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Oklahoma State University-Main Campus_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Oregon State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Princeton University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/SUNY at Albany_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Saint Joseph's University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/San Diego State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Simmons University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/South Dakota State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stanford University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stockton University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stony Brook University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/The University of Texas at Austin_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Alabama at Birmingham_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Arizona_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Berkeley_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Irvine_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Los Angeles_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Riverside_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Barbara_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Cruz_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Colorado Boulder_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Connecticut_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Florida_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Georgia_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Houston_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Illinois Chicago_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Kentucky_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Maryland, Baltimore_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Massachusetts-Amherst_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Michigan-Ann Arbor_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Minnesota-Twin Cities_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Missouri-St Louis_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Oregon_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Pennsylvania_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Richmond_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of South Carolina-Columbia_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of South Florida_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Utah_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Washington-Seattle Campus_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of West Georgia_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Wisconsin-Madison_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of the Pacific_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Vanderbilt University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Wake Forest University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Washington State University_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Washington University in St Louis_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Western Michigan University Homer Stryker M.D. School of Medicine_pie_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACHA_Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACHA_Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACHA_Executive_Summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/ACHA_Executive_Summary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACHA_Figures/Student_Population_Anxiety.png" beforeDir="false" afterPath="$PROJECT_DIR$/ACHA_Figures/Student_Population_Anxiety.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACHA_Figures/Student_Population_Happiness.png" beforeDir="false" afterPath="$PROJECT_DIR$/ACHA_Figures/Student_Population_Happiness.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACHA_Tables/cleaned_table3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ACHA_Tables/cleaned_table3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NCHA_Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/NCHA_Analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,28 +144,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.ACHA_Analysis.executor": "Run",
-    "Python.ACHA_Executive_Summary.executor": "Run",
-    "Python.NCHA_Analysis.executor": "Run",
-    "Python.NCHA_Executive_Summary.executor": "Run",
-    "Python.The_Healthy_Minds_Study_Data_Report.executor": "Run",
-    "Python.USC_CDS_2022.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindowPlots.ShowToolbar": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ACHA_Analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ACHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NCHA_Analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NCHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.The_Healthy_Minds_Study_Data_Report.executor&quot;: &quot;Run&quot;,
+    &quot;Python.USC_CDS_2022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.University_Clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowPlots.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -157,7 +193,14 @@
       <workItem from="1718417721951" duration="435000" />
       <workItem from="1718925025917" duration="68000" />
       <workItem from="1718925180297" duration="4988000" />
-      <workItem from="1718953846917" duration="3257000" />
+      <workItem from="1718953846917" duration="3312000" />
+      <workItem from="1718997867625" duration="6988000" />
+      <workItem from="1719547315798" duration="697000" />
+      <workItem from="1719548016893" duration="10092000" />
+      <workItem from="1719943389376" duration="2154000" />
+      <workItem from="1720138053830" duration="29000" />
+      <workItem from="1720138172335" duration="26000" />
+      <workItem from="1720138200742" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -199,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718418152343</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fifth Commit: Chart Correction and New Data Visualization for NCHA.">
+      <option name="closed" value="true" />
+      <created>1718957158380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718957158380</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,15 +262,17 @@
     <MESSAGE value="Second Commit: adding text extraction feature" />
     <MESSAGE value="Third Commit: Extract tables from week1 files" />
     <MESSAGE value="Fourth Commit: Cleaned and Visualized ACHA datasets." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit: Cleaned and Visualized ACHA datasets." />
+    <MESSAGE value="Fifth Commit: Chart Correction and New Data Visualization for NCHA." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth Commit: Chart Correction and New Data Visualization for NCHA." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pdfExtraction$The_Healthy_Minds_Study_Data_Report.coverage" NAME="The_Healthy_Minds_Study_Data_Report Coverage Results" MODIFIED="1718349661157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$USC_CDS_2022.coverage" NAME="USC_CDS_2022 Coverage Results" MODIFIED="1718349936045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Analysis.coverage" NAME="ACHA_Analysis Coverage Results" MODIFIED="1718957055554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$main.coverage" NAME="main Coverage Results" MODIFIED="1718073532775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$University_Clustering.coverage" NAME="University_Clustering Coverage Results" MODIFIED="1719551570537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
     <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Executive_Summary.coverage" NAME="ACHA_Executive_Summary Coverage Results" MODIFIED="1718349147977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1718930161174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1719002241209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Executive_Summary.coverage" NAME="NCHA_Executive_Summary Coverage Results" MODIFIED="1718925796328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
