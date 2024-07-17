@@ -86,9 +86,11 @@ pca_df = pd.DataFrame(data=principal_components, columns=['PC1', 'PC2'])
 pca_df['Cluster'] = clusters
 pca_df['Institution'] = filtered_diversity_data['institution name']
 
+
 # Function to extract capitals from institution name
 def extract_capitals(name):
     return ''.join(re.findall(r'[A-Z]', name))
+
 
 pca_df['Institution'] = pca_df['Institution'].apply(extract_capitals)
 
@@ -96,7 +98,8 @@ pca_df['Institution'] = pca_df['Institution'].apply(extract_capitals)
 plt.figure(figsize=(12, 8))
 sns.scatterplot(data=pca_df, x='PC1', y='PC2', hue='Cluster', palette='viridis', s=100, alpha=0.7)
 for line in range(0, pca_df.shape[0]):
-    plt.text(pca_df.PC1[line], pca_df.PC2[line], pca_df.Institution[line], horizontalalignment='left', size='small', color='black', alpha=0.6)
+    plt.text(pca_df.PC1[line], pca_df.PC2[line], pca_df.Institution[line], horizontalalignment='left', size='small',
+             color='black', alpha=0.6)
 plt.title('University Clustering based on Population Diversity')
 plt.xlabel('Principal Component 1')
 plt.ylabel('Principal Component 2')
@@ -113,6 +116,7 @@ pie_chart_dir = 'University_Population_Pie_Charts'
 stacked_bar_dir = 'Clustered_University_Stack_Pie_Chart'
 os.makedirs(pie_chart_dir, exist_ok=True)
 os.makedirs(stacked_bar_dir, exist_ok=True)
+
 
 # Function to create and save pie chart
 def create_pie_chart(row):
@@ -136,9 +140,11 @@ def create_pie_chart(row):
     plt.savefig(os.path.join(pie_chart_dir, f'{institution_name}_pie_chart.png'), bbox_inches="tight")
     plt.close()
 
+
 # Generate pie charts for all institutions
 for index, row in filtered_diversity_data.iterrows():
     create_pie_chart(row)
+
 
 # Function to wrap text for long labels
 def wrap_labels(ax, width=10):
@@ -147,6 +153,7 @@ def wrap_labels(ax, width=10):
         text = label.get_text()
         labels.append('\n'.join(textwrap.wrap(text, width)))
     ax.set_yticklabels(labels, rotation=0, ha='right')
+
 
 # Create horizontal stacked bar charts for universities in the same cluster
 clusters = filtered_diversity_data['Cluster'].unique()
@@ -168,9 +175,9 @@ for cluster in clusters:
 
     # Dynamically set figure size based on the number of institutions
     num_institutions = len(cluster_data)
-    fig_height = max(8, num_institutions * 0.5)  # Adjust height based on number of institutions
+    fig_height = max(8, int(num_institutions * 0.5))
     plt.figure(figsize=(12, fig_height))
-    ax = cluster_data[race_labels].plot(kind='barh', stacked=True, figsize=(12, fig_height), width=0.8)  # Adjust bar width
+    ax = cluster_data[race_labels].plot(kind='barh', stacked=True, figsize=(12, fig_height), width=0.8)
     plt.title(f'Student Population Diversity for Cluster {cluster}')
     plt.ylabel('Institution Name')
     plt.xlabel('Percentage of Students')

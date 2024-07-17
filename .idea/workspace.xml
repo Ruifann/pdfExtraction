@@ -5,82 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8131e4b9-db18-402e-8334-2eeaaaef0ba4" name="Changes" comment="Sixth Commit: Population Clustering">
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_0_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_1_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_2_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_3_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_4_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Clustered_University_Stack_Pie_Chart/Cluster_5_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_0_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_1_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_2_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_3_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_4_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Heatmap_Retention_Chart/Cluster_5_heatmap_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_0_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_1_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_2_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_3_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_4_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Clustered_University_Stack_Retention_Chart/Cluster_5_stacked_barh_chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/Retention_Rate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Retention_Rate_Cluster/university_clusters_retention_rate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/CSV_Graduation_Rate_All_Schools.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Population_Clustering_All_University.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/public_schools_clusters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Boston College_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Boston College_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Brown University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Brown University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State Polytechnic University-Pomona_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State Polytechnic University-Pomona_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Bakersfield_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Bakersfield_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Chico_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Chico_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Dominguez Hills_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Dominguez Hills_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fresno_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fresno_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fullerton_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Fullerton_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Long Beach_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-Long Beach_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Bernardino_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Bernardino_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Marcos_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/California State University-San Marcos_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Clemson University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Clemson University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Coastal Carolina University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Coastal Carolina University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Columbia University in the City of New York_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Columbia University in the City of New York_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Dallas College_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Dallas College_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Emory University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Emory University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Georgia Institute of Technology-Main Campus_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Georgia Institute of Technology-Main Campus_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Illinois Institute of Technology_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Illinois Institute of Technology_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Kansas State University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Kansas State University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Michigan State University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Michigan State University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/North Carolina State University at Raleigh_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/North Carolina State University at Raleigh_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northern Virginia Community College_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northern Virginia Community College_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northwestern University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Northwestern University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Ohio State University-Main Campus_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Ohio State University-Main Campus_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/SUNY at Albany_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/SUNY at Albany_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/San Diego State University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/San Diego State University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/South Dakota State University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/South Dakota State University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stanford University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stanford University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stockton University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Stockton University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/The University of Texas at Austin_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/The University of Texas at Austin_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Alabama at Birmingham_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Alabama at Birmingham_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Arizona_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Arizona_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Berkeley_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Berkeley_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Irvine_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Irvine_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Riverside_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Riverside_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Barbara_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Barbara_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Cruz_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of California-Santa Cruz_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Colorado Boulder_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Colorado Boulder_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Connecticut_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Connecticut_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Florida_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Florida_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Houston_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Houston_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Illinois Chicago_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Illinois Chicago_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Kentucky_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Kentucky_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Massachusetts-Amherst_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Massachusetts-Amherst_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Michigan-Ann Arbor_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Michigan-Ann Arbor_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Minnesota-Twin Cities_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Minnesota-Twin Cities_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Pennsylvania_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Pennsylvania_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Richmond_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Richmond_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Utah_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of Utah_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of West Georgia_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of West Georgia_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of the Pacific_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/University of the Pacific_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Vanderbilt University_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Vanderbilt University_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Washington University in St Louis_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Washington University in St Louis_pie_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Western Michigan University Homer Stryker M.D. School of Medicine_pie_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Population_Pie_Charts/Western Michigan University Homer Stryker M.D. School of Medicine_pie_chart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +28,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ruifann&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ruifann/pdfExtraction.git&quot;,
+    &quot;accountId&quot;: &quot;daed9222-dc60-4659-91f8-4cbcbb615fd6&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -116,6 +62,7 @@
     &quot;Python.ACHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
     &quot;Python.NCHA_Analysis.executor&quot;: &quot;Run&quot;,
     &quot;Python.NCHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Population_Clustering_All_University.executor&quot;: &quot;Run&quot;,
     &quot;Python.Retention_Rate.executor&quot;: &quot;Run&quot;,
     &quot;Python.The_Healthy_Minds_Study_Data_Report.executor&quot;: &quot;Run&quot;,
     &quot;Python.USC_CDS_2022.executor&quot;: &quot;Run&quot;,
@@ -125,14 +72,21 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowPlots.ShowToolbar&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/wangruifan/Desktop/pdfExtraction&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/h6/qqwfk0wx3yj935xxz651k3sh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="ef7619d4-3cac-425e-baf7-2de2eda610e9" reportId="pdfExtraction/qodana/2024-07-15" />
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Retention_Rate_Cluster" />
@@ -141,8 +95,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -178,6 +132,10 @@
       <workItem from="1720731220313" duration="52000" />
       <workItem from="1720731301050" duration="7337000" />
       <workItem from="1720750541764" duration="17000" />
+      <workItem from="1721070168451" duration="13000" />
+      <workItem from="1721070185687" duration="2325000" />
+      <workItem from="1721074789240" duration="9374000" />
+      <workItem from="1721092283099" duration="737000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -251,15 +209,26 @@
     <MESSAGE value="Sixth Commit: Population Clustering" />
     <option name="LAST_COMMIT_MESSAGE" value="Sixth Commit: Population Clustering" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Population_Cluster/University_Clustering.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pdfExtraction$The_Healthy_Minds_Study_Data_Report.coverage" NAME="The_Healthy_Minds_Study_Data_Report Coverage Results" MODIFIED="1718349661157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$USC_CDS_2022.coverage" NAME="USC_CDS_2022 Coverage Results" MODIFIED="1718349936045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$Retention_Rate.coverage" NAME="Retention_Rate Coverage Results" MODIFIED="1720735767392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retention_Rate_Cluster" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Analysis.coverage" NAME="ACHA_Analysis Coverage Results" MODIFIED="1718957055554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$main.coverage" NAME="main Coverage Results" MODIFIED="1718073532775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$University_Clustering.coverage" NAME="University_Clustering Coverage Results" MODIFIED="1720731306146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
     <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Executive_Summary.coverage" NAME="ACHA_Executive_Summary Coverage Results" MODIFIED="1718349147977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1719002241209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$USC_CDS_2022.coverage" NAME="USC_CDS_2022 Coverage Results" MODIFIED="1718349936045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$The_Healthy_Minds_Study_Data_Report.coverage" NAME="The_Healthy_Minds_Study_Data_Report Coverage Results" MODIFIED="1718349661157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$Retention_Rate.coverage" NAME="Retention_Rate Coverage Results" MODIFIED="1720735767392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retention_Rate_Cluster" />
     <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Executive_Summary.coverage" NAME="NCHA_Executive_Summary Coverage Results" MODIFIED="1718925796328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1719002241209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$University_Clustering.coverage" NAME="University_Clustering Coverage Results" MODIFIED="1720731306146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$main.coverage" NAME="main Coverage Results" MODIFIED="1718073532775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Analysis.coverage" NAME="ACHA_Analysis Coverage Results" MODIFIED="1718957055554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$Population_Clustering_All_University.coverage" NAME="Population_Clustering_All_University Coverage Results" MODIFIED="1721092296667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
   </component>
 </project>

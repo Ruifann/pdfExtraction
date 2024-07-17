@@ -1,0 +1,552 @@
+institution name,"DRVGR2022.Graduation rate, American Indian or Alaska Native","DRVGR2022.Graduation rate, Asian/Native Hawaiian/Other Pacific Islander","DRVGR2022.Graduation rate, Asian","DRVGR2022.Graduation rate, Native Hawaiian or Other Pacific Islander","DRVGR2022.Graduation rate, Black, non-Hispanic","DRVGR2022.Graduation rate, Hispanic","DRVGR2022.Graduation rate, White, non-Hispanic","DRVGR2022.Graduation rate, two or more races","DRVGR2022.Graduation rate, Race/ethnicity unknown","DRVGR2022.Graduation rate, U.S. Nonresident",HD2022.Degree of urbanization (Urban-centric locale),HD2022.Institution size category,Cluster
+Alabama A & M University,50.0,0.0,0.0,0.0,27.0,47.0,24.0,22.0,0.0,100.0,City: Midsize,"5,000 - 9,999",4
+University of Alabama at Birmingham,55.0,82.0,82.0,100.0,57.0,53.0,66.0,66.0,67.0,63.0,City: Midsize,"20,000 and above",9
+University of Alabama in Huntsville,33.0,69.0,69.0,,48.0,55.0,64.0,59.0,74.0,68.0,City: Midsize,"5,000 - 9,999",4
+Alabama State University,50.0,40.0,40.0,,27.0,25.0,38.0,20.0,50.0,67.0,City: Midsize,"1,000 - 4,999",1
+The University of Alabama,58.0,71.0,72.0,57.0,60.0,67.0,75.0,67.0,68.0,73.0,City: Small,"20,000 and above",5
+Auburn University at Montgomery,14.0,40.0,40.0,,37.0,38.0,37.0,24.0,,8.0,City: Midsize,"5,000 - 9,999",4
+Auburn University,57.0,82.0,81.0,100.0,69.0,77.0,82.0,74.0,100.0,70.0,City: Small,"20,000 and above",5
+Jacksonville State University,29.0,57.0,67.0,0.0,37.0,60.0,56.0,,44.0,49.0,Suburb: Small,"5,000 - 9,999",4
+University of West Alabama,0.0,0.0,,0.0,35.0,20.0,41.0,64.0,42.0,25.0,Rural: Remote,"5,000 - 9,999",3
+University of Montevallo,0.0,50.0,50.0,,56.0,64.0,55.0,50.0,40.0,56.0,Suburb: Large,"1,000 - 4,999",1
+University of North Alabama,70.0,67.0,67.0,,31.0,45.0,56.0,51.0,64.0,50.0,City: Small,"5,000 - 9,999",4
+University of South Alabama,53.0,58.0,58.0,,45.0,38.0,53.0,48.0,52.0,14.0,City: Midsize,"10,000 - 19,999",2
+Troy University,17.0,46.0,55.0,0.0,37.0,30.0,54.0,34.0,53.0,37.0,Town: Remote,"10,000 - 19,999",6
+University of Alaska Anchorage,8.0,33.0,34.0,25.0,22.0,30.0,34.0,20.0,29.0,58.0,City: Large,"10,000 - 19,999",2
+University of Alaska Fairbanks,22.0,50.0,57.0,33.0,27.0,30.0,48.0,33.0,29.0,67.0,Suburb: Small,"5,000 - 9,999",4
+Arizona State University Campus Immersion,46.0,76.0,78.0,44.0,49.0,61.0,70.0,61.0,100.0,75.0,City: Midsize,"20,000 and above",9
+University of Arizona,45.0,75.0,76.0,50.0,56.0,63.0,70.0,69.0,80.0,71.0,City: Large,"20,000 and above",0
+Northern Arizona University,33.0,67.0,72.0,39.0,42.0,55.0,63.0,55.0,61.0,50.0,City: Small,"20,000 and above",5
+University of Arkansas at Little Rock,33.0,74.0,74.0,,31.0,46.0,42.0,45.0,67.0,75.0,City: Midsize,"5,000 - 9,999",4
+University of Arkansas,56.0,72.0,74.0,20.0,62.0,63.0,70.0,63.0,72.0,77.0,City: Small,"20,000 and above",5
+University of Arkansas at Pine Bluff,0.0,50.0,50.0,,41.0,33.0,45.0,36.0,,83.0,City: Small,"1,000 - 4,999",1
+Arkansas State University,43.0,64.0,64.0,,43.0,50.0,57.0,31.0,44.0,29.0,City: Small,"10,000 - 19,999",2
+University of Central Arkansas,56.0,77.0,77.0,,41.0,49.0,54.0,45.0,0.0,31.0,City: Small,"5,000 - 9,999",4
+Henderson State University,40.0,50.0,50.0,,25.0,43.0,45.0,36.0,100.0,17.0,Town: Distant,"1,000 - 4,999",8
+Southern Arkansas University Main Campus,57.0,56.0,60.0,50.0,31.0,45.0,49.0,85.0,100.0,35.0,Town: Remote,"5,000 - 9,999",6
+California Polytechnic State University-San Luis Obispo,86.0,87.0,88.0,71.0,92.0,79.0,87.0,81.0,84.0,81.0,Suburb: Small,"20,000 and above",9
+California State University-Bakersfield,50.0,64.0,65.0,0.0,43.0,49.0,50.0,44.0,67.0,48.0,City: Large,"5,000 - 9,999",4
+California State University-Stanislaus,67.0,59.0,61.0,33.0,56.0,53.0,63.0,58.0,49.0,44.0,Suburb: Small,"10,000 - 19,999",2
+California State University-San Bernardino,50.0,66.0,66.0,0.0,45.0,54.0,53.0,52.0,63.0,56.0,City: Midsize,"10,000 - 19,999",2
+California State Polytechnic University-Pomona,71.0,78.0,78.0,57.0,50.0,60.0,76.0,69.0,64.0,60.0,Suburb: Large,"20,000 and above",5
+California State University-Chico,40.0,57.0,58.0,43.0,47.0,61.0,69.0,63.0,73.0,61.0,City: Midsize,"10,000 - 19,999",2
+California State University-Dominguez Hills,,56.0,58.0,0.0,44.0,48.0,46.0,36.0,28.0,32.0,City: Small,"10,000 - 19,999",2
+California State University-Fresno,56.0,50.0,51.0,33.0,38.0,57.0,66.0,55.0,55.0,49.0,City: Large,"20,000 and above",0
+California State University-Fullerton,60.0,75.0,75.0,57.0,63.0,66.0,75.0,69.0,80.0,65.0,Suburb: Large,"20,000 and above",5
+California State University-East Bay,50.0,56.0,56.0,50.0,44.0,42.0,55.0,39.0,51.0,37.0,Suburb: Large,"10,000 - 19,999",2
+California State University-Long Beach,71.0,78.0,78.0,40.0,62.0,70.0,77.0,70.0,66.0,66.0,City: Large,"20,000 and above",0
+California State University-Los Angeles,0.0,67.0,67.0,29.0,38.0,51.0,46.0,47.0,46.0,47.0,City: Large,"20,000 and above",0
+California State University-Northridge,25.0,66.0,66.0,57.0,41.0,53.0,68.0,58.0,51.0,53.0,City: Large,"20,000 and above",0
+California State University-Sacramento,13.0,57.0,57.0,58.0,43.0,53.0,58.0,57.0,57.0,57.0,City: Large,"20,000 and above",0
+University of California-Berkeley,100.0,96.0,96.0,93.0,81.0,87.0,95.0,92.0,95.0,94.0,City: Midsize,"20,000 and above",9
+University of California-Davis,100.0,91.0,91.0,76.0,78.0,80.0,88.0,90.0,89.0,85.0,Suburb: Small,"20,000 and above",9
+University of California-Irvine,100.0,92.0,92.0,82.0,77.0,81.0,87.0,85.0,96.0,86.0,City: Large,"20,000 and above",0
+University of California-Los Angeles,81.0,95.0,95.0,80.0,84.0,90.0,93.0,93.0,94.0,91.0,City: Large,"20,000 and above",0
+University of California-Riverside,67.0,83.0,83.0,75.0,72.0,74.0,75.0,69.0,69.0,65.0,City: Large,"20,000 and above",0
+University of California-San Diego,43.0,92.0,92.0,92.0,74.0,82.0,88.0,87.0,95.0,86.0,City: Large,"20,000 and above",0
+University of California-Santa Barbara,86.0,90.0,90.0,85.0,81.0,81.0,88.0,83.0,94.0,84.0,Suburb: Midsize,"20,000 and above",5
+University of California-Santa Cruz,83.0,79.0,79.0,80.0,70.0,75.0,77.0,78.0,78.0,75.0,City: Small,"10,000 - 19,999",5
+California State University Maritime Academy,100.0,64.0,65.0,60.0,25.0,60.0,74.0,50.0,56.0,0.0,City: Midsize,"Under 1,000",9
+California State Polytechnic University-Humboldt,27.0,40.0,45.0,0.0,37.0,40.0,51.0,54.0,57.0,33.0,Town: Remote,"5,000 - 9,999",6
+San Diego State University,71.0,80.0,81.0,77.0,74.0,75.0,81.0,77.0,76.0,73.0,City: Large,"20,000 and above",0
+San Francisco State University,33.0,63.0,64.0,43.0,48.0,49.0,58.0,52.0,59.0,55.0,City: Large,"20,000 and above",0
+San Jose State University,25.0,79.0,79.0,64.0,52.0,59.0,68.0,66.0,71.0,70.0,City: Large,"20,000 and above",0
+Sonoma State University,60.0,54.0,54.0,50.0,56.0,60.0,62.0,51.0,54.0,68.0,Suburb: Large,"5,000 - 9,999",4
+Adams State University,0.0,43.0,0.0,50.0,9.0,29.0,32.0,28.0,33.0,,Town: Remote,"1,000 - 4,999",6
+University of Colorado Denver/Anschutz Medical Campus,33.0,56.0,57.0,0.0,40.0,39.0,43.0,44.0,83.0,58.0,City: Large,"20,000 and above",0
+University of Colorado Colorado Springs,40.0,46.0,49.0,17.0,35.0,35.0,46.0,34.0,20.0,57.0,City: Large,"10,000 - 19,999",2
+University of Colorado Boulder,57.0,82.0,83.0,67.0,67.0,67.0,76.0,75.0,57.0,72.0,City: Midsize,"20,000 and above",9
+Colorado School of Mines,50.0,88.0,87.0,100.0,75.0,75.0,82.0,90.0,100.0,85.0,Suburb: Large,"5,000 - 9,999",5
+Colorado State University-Fort Collins,30.0,65.0,68.0,22.0,61.0,62.0,68.0,63.0,70.0,73.0,City: Midsize,"20,000 and above",9
+Fort Lewis College,23.0,29.0,29.0,,33.0,34.0,47.0,37.0,55.0,33.0,Town: Distant,"1,000 - 4,999",8
+Colorado Mesa University,18.0,29.0,32.0,18.0,12.0,32.0,44.0,30.0,55.0,50.0,City: Small,"5,000 - 9,999",4
+Metropolitan State University of Denver,33.0,40.0,42.0,17.0,20.0,27.0,31.0,25.0,36.0,45.0,City: Large,"10,000 - 19,999",2
+University of Northern Colorado,45.0,48.0,54.0,11.0,51.0,44.0,56.0,42.0,40.0,44.0,City: Midsize,"5,000 - 9,999",4
+Colorado State University Pueblo,0.0,29.0,30.0,25.0,22.0,36.0,40.0,29.0,24.0,33.0,City: Midsize,"5,000 - 9,999",4
+Western Colorado University,50.0,50.0,50.0,,24.0,39.0,50.0,47.0,41.0,100.0,Town: Remote,"1,000 - 4,999",6
+Central Connecticut State University,25.0,51.0,52.0,0.0,47.0,47.0,55.0,62.0,67.0,42.0,Suburb: Large,"5,000 - 9,999",4
+Charter Oak State College,,,,,,,100.0,,,,Suburb: Large,"1,000 - 4,999",5
+University of Connecticut,50.0,83.0,83.0,100.0,75.0,75.0,87.0,77.0,84.0,79.0,Suburb: Large,"20,000 and above",5
+Eastern Connecticut State University,67.0,82.0,82.0,,45.0,44.0,63.0,45.0,85.0,50.0,Town: Fringe,"1,000 - 4,999",5
+Southern Connecticut State University,0.0,52.0,53.0,0.0,49.0,45.0,58.0,47.0,40.0,50.0,City: Midsize,"5,000 - 9,999",4
+Western Connecticut State University,100.0,55.0,55.0,,45.0,43.0,55.0,49.0,50.0,0.0,City: Small,"1,000 - 4,999",1
+Delaware State University,67.0,50.0,33.0,100.0,45.0,41.0,44.0,47.0,0.0,75.0,City: Small,"5,000 - 9,999",4
+University of Delaware,63.0,80.0,80.0,100.0,66.0,74.0,82.0,67.0,80.0,78.0,Suburb: Large,"20,000 and above",5
+University of the District of Columbia,,67.0,67.0,,31.0,35.0,14.0,17.0,14.0,62.0,City: Large,"1,000 - 4,999",1
+University of Central Florida,67.0,80.0,80.0,100.0,73.0,74.0,77.0,72.0,67.0,61.0,Suburb: Large,"20,000 and above",5
+Florida Agricultural and Mechanical University,,67.0,67.0,,61.0,46.0,52.0,65.0,,83.0,City: Midsize,"5,000 - 9,999",4
+Florida Atlantic University,33.0,69.0,69.0,100.0,65.0,65.0,59.0,65.0,69.0,57.0,City: Small,"20,000 and above",5
+Florida International University,33.0,77.0,76.0,100.0,64.0,71.0,59.0,62.0,67.0,70.0,Suburb: Large,"20,000 and above",5
+Florida State University,62.0,83.0,83.0,100.0,87.0,86.0,84.0,85.0,83.0,77.0,City: Midsize,"20,000 and above",9
+University of Florida,75.0,92.0,92.0,100.0,83.0,90.0,91.0,89.0,88.0,84.0,City: Midsize,"20,000 and above",9
+University of North Florida,33.0,87.0,87.0,100.0,70.0,67.0,67.0,59.0,,56.0,City: Large,"10,000 - 19,999",0
+University of South Florida,100.0,84.0,85.0,71.0,73.0,72.0,74.0,69.0,74.0,79.0,City: Large,"20,000 and above",0
+The University of West Florida,25.0,69.0,67.0,100.0,49.0,43.0,55.0,51.0,33.0,59.0,City: Small,"10,000 - 19,999",2
+Abraham Baldwin Agricultural College,33.0,25.0,29.0,0.0,15.0,51.0,43.0,57.0,0.0,21.0,Town: Distant,"1,000 - 4,999",8
+Albany State University,0.0,50.0,50.0,,30.0,18.0,19.0,23.0,20.0,0.0,City: Small,"5,000 - 9,999",4
+College of Coastal Georgia,0.0,42.0,45.0,0.0,11.0,21.0,28.0,18.0,20.0,50.0,City: Small,"1,000 - 4,999",1
+Clayton  State University,0.0,40.0,40.0,,35.0,36.0,30.0,28.0,17.0,55.0,Suburb: Large,"5,000 - 9,999",4
+Columbus State University,0.0,42.0,42.0,,42.0,44.0,44.0,56.0,20.0,58.0,City: Midsize,"5,000 - 9,999",4
+Dalton State College,0.0,12.0,12.0,,11.0,22.0,24.0,0.0,20.0,50.0,City: Small,"1,000 - 4,999",1
+Fort Valley State University,67.0,,,,45.0,0.0,50.0,60.0,,100.0,Town: Fringe,"1,000 - 4,999",1
+Georgia Institute of Technology-Main Campus,100.0,97.0,97.0,,80.0,92.0,92.0,89.0,93.0,96.0,City: Large,"20,000 and above",0
+Georgia Southwestern State University,,0.0,0.0,,29.0,35.0,39.0,43.0,0.0,33.0,Town: Distant,"1,000 - 4,999",8
+Georgia College & State University,0.0,33.0,35.0,0.0,72.0,66.0,63.0,55.0,57.0,57.0,Town: Distant,"5,000 - 9,999",8
+Georgia Southern University,43.0,54.0,55.0,0.0,51.0,48.0,54.0,50.0,53.0,63.0,Town: Distant,"20,000 and above",8
+Georgia State University,100.0,53.0,53.0,0.0,56.0,58.0,52.0,53.0,35.0,73.0,City: Large,"20,000 and above",0
+University of Georgia,67.0,84.0,84.0,75.0,85.0,86.0,90.0,87.0,88.0,84.0,City: Midsize,"20,000 and above",9
+Savannah State University,17.0,0.0,,0.0,29.0,20.0,31.0,29.0,0.0,50.0,City: Midsize,"1,000 - 4,999",1
+Valdosta State University,0.0,41.0,41.0,,43.0,38.0,39.0,34.0,20.0,36.0,City: Small,"10,000 - 19,999",2
+University of West Georgia,50.0,50.0,50.0,50.0,43.0,34.0,46.0,32.0,55.0,50.0,Town: Fringe,"10,000 - 19,999",2
+University of Hawaii at Hilo,,49.0,58.0,28.0,0.0,34.0,40.0,41.0,,71.0,Town: Remote,"1,000 - 4,999",6
+University of Hawaii at Manoa,13.0,76.0,78.0,46.0,38.0,46.0,50.0,58.0,25.0,73.0,City: Large,"10,000 - 19,999",2
+University of Hawaii-West Oahu,,33.0,35.0,0.0,33.0,19.0,38.0,37.0,,,Suburb: Large,"1,000 - 4,999",1
+Boise State University,44.0,53.0,59.0,17.0,50.0,53.0,61.0,53.0,64.0,72.0,City: Midsize,"20,000 and above",9
+Idaho State University,11.0,21.0,23.0,17.0,11.0,33.0,38.0,38.0,34.0,45.0,City: Small,"10,000 - 19,999",2
+University of Idaho,63.0,57.0,62.0,25.0,36.0,62.0,61.0,55.0,65.0,74.0,Town: Distant,"10,000 - 19,999",8
+Lewis-Clark State College,14.0,14.0,20.0,0.0,17.0,32.0,36.0,40.0,31.0,54.0,City: Small,"1,000 - 4,999",1
+Chicago State University,50.0,100.0,,100.0,30.0,0.0,31.0,67.0,0.0,0.0,City: Large,"1,000 - 4,999",1
+Eastern Illinois University,50.0,88.0,88.0,,43.0,44.0,64.0,48.0,57.0,26.0,Town: Distant,"5,000 - 9,999",8
+Governors State University,,0.0,0.0,,16.0,38.0,33.0,0.0,14.0,,Rural: Fringe,"1,000 - 4,999",1
+University of Illinois Chicago,,73.0,73.0,50.0,55.0,52.0,68.0,61.0,40.0,68.0,City: Large,"20,000 and above",0
+University of Illinois Urbana-Champaign,67.0,88.0,88.0,50.0,69.0,76.0,87.0,83.0,86.0,88.0,City: Small,"20,000 and above",5
+Illinois State University,50.0,66.0,67.0,50.0,44.0,56.0,73.0,63.0,75.0,53.0,Suburb: Midsize,"20,000 and above",5
+Northern Illinois University,100.0,65.0,66.0,0.0,31.0,48.0,65.0,51.0,100.0,63.0,Suburb: Small,"10,000 - 19,999",2
+Northeastern Illinois University,0.0,26.0,26.0,,6.0,17.0,33.0,18.0,28.0,22.0,City: Large,"5,000 - 9,999",4
+University of Illinois Springfield,,60.0,60.0,,43.0,40.0,59.0,80.0,50.0,69.0,City: Midsize,"1,000 - 4,999",9
+Southern Illinois University-Carbondale,0.0,44.0,50.0,0.0,29.0,36.0,60.0,42.0,100.0,63.0,City: Small,"10,000 - 19,999",2
+Southern Illinois University-Edwardsville,67.0,62.0,62.0,50.0,32.0,40.0,59.0,52.0,40.0,43.0,Suburb: Large,"10,000 - 19,999",2
+Western Illinois University,,70.0,70.0,,30.0,42.0,62.0,44.0,50.0,57.0,Town: Remote,"5,000 - 9,999",6
+Ball State University,,60.0,61.0,50.0,58.0,62.0,65.0,59.0,50.0,73.0,City: Small,"10,000 - 19,999",2
+Purdue University Fort Wayne,25.0,53.0,53.0,,12.0,22.0,38.0,28.0,50.0,74.0,City: Large,"5,000 - 9,999",4
+Indiana University-Purdue University-Indianapolis,100.0,70.0,71.0,33.0,48.0,50.0,58.0,43.0,57.0,65.0,City: Large,"20,000 and above",0
+University of Southern Indiana,0.0,47.0,47.0,,43.0,44.0,52.0,33.0,0.0,75.0,Suburb: Midsize,"5,000 - 9,999",4
+Indiana State University,25.0,35.0,38.0,0.0,26.0,39.0,52.0,31.0,0.0,75.0,City: Small,"5,000 - 9,999",4
+Indiana University-Kokomo,0.0,33.0,33.0,,28.0,50.0,43.0,26.0,29.0,0.0,City: Small,"1,000 - 4,999",1
+Indiana University-South Bend,33.0,42.0,36.0,100.0,21.0,31.0,39.0,19.0,40.0,42.0,City: Midsize,"1,000 - 4,999",1
+Indiana University-Bloomington,83.0,85.0,84.0,100.0,68.0,78.0,82.0,76.0,77.0,85.0,City: Small,"20,000 and above",5
+Indiana University-Northwest,0.0,69.0,69.0,,23.0,32.0,40.0,41.0,57.0,100.0,City: Small,"1,000 - 4,999",2
+Indiana University-Southeast,0.0,33.0,20.0,100.0,4.0,33.0,39.0,18.0,0.0,0.0,Suburb: Large,"1,000 - 4,999",1
+Indiana University-East,50.0,33.0,33.0,,29.0,29.0,43.0,50.0,67.0,,Rural: Fringe,"1,000 - 4,999",1
+Iowa State University,56.0,71.0,71.0,75.0,60.0,63.0,76.0,73.0,77.0,71.0,City: Small,"20,000 and above",5
+University of Iowa,45.0,72.0,72.0,80.0,59.0,65.0,75.0,69.0,74.0,78.0,City: Small,"20,000 and above",5
+University of Northern Iowa,46.0,78.0,80.0,50.0,51.0,53.0,65.0,45.0,66.0,63.0,City: Small,"5,000 - 9,999",4
+Emporia State University,100.0,33.0,40.0,0.0,35.0,39.0,56.0,41.0,78.0,43.0,Town: Remote,"5,000 - 9,999",6
+Fort Hays State University,43.0,38.0,38.0,,33.0,34.0,55.0,38.0,33.0,50.0,Town: Remote,"10,000 - 19,999",6
+University of Kansas,36.0,75.0,75.0,100.0,48.0,61.0,69.0,59.0,56.0,69.0,City: Small,"20,000 and above",5
+Kansas State University,65.0,60.0,62.0,43.0,51.0,56.0,72.0,60.0,68.0,45.0,City: Small,"10,000 - 19,999",2
+Pittsburg State University,44.0,25.0,25.0,,27.0,40.0,59.0,50.0,,100.0,Town: Distant,"5,000 - 9,999",8
+Washburn University,29.0,55.0,67.0,0.0,31.0,49.0,59.0,35.0,67.0,40.0,City: Midsize,"5,000 - 9,999",4
+Wichita State University,50.0,66.0,67.0,0.0,46.0,53.0,54.0,43.0,27.0,23.0,City: Large,"10,000 - 19,999",2
+Eastern Kentucky University,60.0,50.0,63.0,0.0,26.0,42.0,51.0,41.0,44.0,88.0,Town: Distant,"10,000 - 19,999",8
+Kentucky State University,0.0,0.0,0.0,,32.0,33.0,37.0,14.0,50.0,0.0,Town: Distant,"1,000 - 4,999",1
+University of Kentucky,50.0,73.0,72.0,100.0,52.0,63.0,71.0,62.0,73.0,72.0,City: Large,"20,000 and above",0
+University of Louisville,0.0,73.0,74.0,0.0,62.0,51.0,63.0,55.0,0.0,71.0,City: Large,"20,000 and above",0
+Morehead State University,0.0,33.0,25.0,50.0,40.0,39.0,48.0,30.0,40.0,80.0,Town: Remote,"5,000 - 9,999",6
+Murray State University,50.0,77.0,77.0,,43.0,43.0,60.0,43.0,59.0,56.0,Town: Remote,"5,000 - 9,999",6
+Northern Kentucky University,0.0,57.0,56.0,100.0,41.0,39.0,51.0,46.0,64.0,69.0,Suburb: Large,"10,000 - 19,999",2
+Western Kentucky University,8.0,56.0,57.0,50.0,23.0,54.0,58.0,29.0,13.0,50.0,City: Small,"10,000 - 19,999",2
+Grambling State University,0.0,0.0,,0.0,36.0,71.0,33.0,29.0,0.0,71.0,Town: Distant,"5,000 - 9,999",8
+Louisiana State University-Alexandria,38.0,25.0,25.0,,24.0,17.0,35.0,17.0,17.0,8.0,Rural: Fringe,"1,000 - 4,999",1
+Louisiana State University and Agricultural & Mechanical College,61.0,74.0,74.0,71.0,58.0,67.0,72.0,69.0,50.0,79.0,City: Midsize,"20,000 and above",9
+Louisiana State University-Shreveport,0.0,14.0,14.0,,31.0,14.0,34.0,47.0,29.0,75.0,City: Midsize,"5,000 - 9,999",4
+Louisiana Tech University,40.0,69.0,69.0,,44.0,45.0,65.0,48.0,50.0,55.0,Town: Distant,"10,000 - 19,999",8
+McNeese State University,25.0,50.0,50.0,,32.0,36.0,50.0,36.0,,73.0,City: Small,"5,000 - 9,999",4
+University of New Orleans,20.0,51.0,51.0,,23.0,36.0,43.0,34.0,71.0,67.0,City: Large,"5,000 - 9,999",4
+Nicholls State University,33.0,50.0,50.0,,28.0,48.0,52.0,37.0,25.0,77.0,City: Small,"5,000 - 9,999",4
+University of Louisiana at Monroe,60.0,63.0,61.0,100.0,42.0,40.0,54.0,38.0,42.0,68.0,City: Small,"5,000 - 9,999",4
+Northwestern State University of Louisiana,58.0,29.0,33.0,0.0,44.0,42.0,48.0,40.0,80.0,50.0,Town: Remote,"5,000 - 9,999",6
+Southeastern Louisiana University,57.0,53.0,50.0,100.0,33.0,41.0,48.0,36.0,20.0,64.0,City: Small,"10,000 - 19,999",2
+Southern University and A & M College,,33.0,33.0,,31.0,17.0,18.0,33.0,40.0,0.0,City: Midsize,"5,000 - 9,999",4
+Southern University at New Orleans,,100.0,100.0,,16.0,,0.0,,14.0,100.0,City: Large,"1,000 - 4,999",0
+University of Louisiana at Lafayette,20.0,58.0,59.0,0.0,39.0,49.0,56.0,39.0,49.0,50.0,City: Midsize,"10,000 - 19,999",2
+University of Maine at Augusta,100.0,50.0,50.0,,0.0,0.0,25.0,0.0,20.0,,Town: Distant,"1,000 - 4,999",1
+University of Maine at Farmington,0.0,50.0,50.0,,30.0,33.0,54.0,58.0,67.0,50.0,Town: Remote,"1,000 - 4,999",6
+University of Maine at Fort Kent,,0.0,,0.0,0.0,0.0,39.0,0.0,0.0,56.0,Rural: Remote,"1,000 - 4,999",3
+University of Maine,48.0,59.0,59.0,,27.0,39.0,57.0,50.0,53.0,64.0,Suburb: Small,"10,000 - 19,999",2
+Maine Maritime Academy,,0.0,0.0,,0.0,60.0,69.0,,63.0,,Rural: Distant,"Under 1,000",7
+University of Maine at Presque Isle,20.0,,,,25.0,0.0,30.0,0.0,67.0,60.0,Rural: Fringe,"1,000 - 4,999",1
+University of Southern Maine,18.0,36.0,39.0,0.0,28.0,29.0,44.0,43.0,18.0,75.0,City: Small,"5,000 - 9,999",4
+University of Baltimore,50.0,33.0,38.0,0.0,35.0,67.0,29.0,0.0,43.0,,City: Large,"1,000 - 4,999",1
+Bowie State University,,75.0,75.0,,39.0,45.0,25.0,51.0,13.0,83.0,Suburb: Large,"5,000 - 9,999",4
+Coppin State University,100.0,60.0,60.0,,23.0,40.0,,17.0,21.0,20.0,City: Large,"1,000 - 4,999",1
+Frostburg State University,0.0,63.0,63.0,,43.0,34.0,58.0,23.0,67.0,86.0,Suburb: Small,"1,000 - 4,999",1
+University of Maryland Global Campus,0.0,28.0,26.0,33.0,11.0,15.0,22.0,21.0,25.0,60.0,Suburb: Large,"20,000 and above",1
+University of Maryland-Baltimore County,100.0,74.0,74.0,,64.0,70.0,71.0,66.0,65.0,68.0,Suburb: Large,"10,000 - 19,999",5
+University of Maryland-College Park,80.0,92.0,92.0,100.0,83.0,85.0,91.0,88.0,85.0,87.0,Suburb: Large,"20,000 and above",5
+University of Maryland Eastern Shore,0.0,86.0,86.0,,38.0,33.0,32.0,44.0,,20.0,Town: Fringe,"1,000 - 4,999",1
+Morgan State University,0.0,45.0,45.0,,43.0,42.0,67.0,59.0,31.0,57.0,City: Large,"5,000 - 9,999",4
+Salisbury University,29.0,53.0,52.0,67.0,62.0,69.0,71.0,57.0,73.0,71.0,Suburb: Small,"5,000 - 9,999",4
+St. Mary's College of Maryland,50.0,63.0,63.0,,59.0,50.0,77.0,75.0,46.0,100.0,Suburb: Small,"1,000 - 4,999",9
+Towson University,20.0,75.0,74.0,100.0,67.0,65.0,72.0,66.0,72.0,55.0,City: Small,"10,000 - 19,999",2
+Bridgewater State University,50.0,55.0,52.0,100.0,48.0,51.0,59.0,43.0,62.0,75.0,Suburb: Large,"5,000 - 9,999",4
+Fitchburg State University,0.0,47.0,47.0,,48.0,48.0,59.0,57.0,57.0,67.0,Suburb: Midsize,"5,000 - 9,999",4
+Framingham State University,0.0,67.0,67.0,,42.0,43.0,61.0,46.0,67.0,50.0,City: Small,"1,000 - 4,999",2
+University of Massachusetts-Lowell,,72.0,72.0,,64.0,59.0,74.0,69.0,53.0,76.0,Suburb: Large,"10,000 - 19,999",5
+University of Massachusetts-Amherst,75.0,82.0,81.0,100.0,81.0,75.0,85.0,77.0,84.0,81.0,Suburb: Large,"20,000 and above",5
+University of Massachusetts-Boston,25.0,61.0,61.0,100.0,44.0,48.0,51.0,44.0,50.0,53.0,City: Large,"10,000 - 19,999",2
+Massachusetts College of Art and Design,50.0,70.0,70.0,,59.0,61.0,67.0,40.0,64.0,74.0,City: Large,"1,000 - 4,999",0
+Massachusetts Maritime Academy,,40.0,40.0,,40.0,71.0,81.0,60.0,70.0,100.0,Suburb: Midsize,"1,000 - 4,999",5
+Massachusetts College of Liberal Arts,50.0,50.0,50.0,,58.0,52.0,56.0,67.0,63.0,0.0,Town: Fringe,"Under 1,000",1
+Salem State University,0.0,30.0,30.0,,50.0,54.0,58.0,62.0,50.0,58.0,Suburb: Large,"5,000 - 9,999",4
+University of Massachusetts-Dartmouth,0.0,56.0,56.0,,49.0,42.0,61.0,36.0,62.0,50.0,Suburb: Midsize,"5,000 - 9,999",4
+Westfield State University,100.0,46.0,46.0,,49.0,47.0,63.0,51.0,59.0,100.0,Suburb: Large,"1,000 - 4,999",5
+Worcester State University,0.0,86.0,86.0,,56.0,48.0,62.0,39.0,46.0,50.0,City: Midsize,"5,000 - 9,999",4
+Central Michigan University,29.0,67.0,74.0,29.0,51.0,53.0,65.0,46.0,65.0,67.0,Town: Distant,"10,000 - 19,999",8
+Eastern Michigan University,33.0,62.0,61.0,100.0,33.0,37.0,52.0,42.0,32.0,54.0,Suburb: Large,"10,000 - 19,999",2
+Ferris State University,29.0,63.0,62.0,100.0,26.0,37.0,53.0,42.0,46.0,48.0,Town: Distant,"10,000 - 19,999",8
+Grand Valley State University,77.0,62.0,62.0,50.0,50.0,55.0,69.0,61.0,43.0,45.0,Suburb: Large,"20,000 and above",5
+Lake Superior State University,33.0,33.0,33.0,,43.0,33.0,54.0,,20.0,33.0,Town: Remote,"1,000 - 4,999",6
+University of Michigan-Ann Arbor,100.0,96.0,96.0,75.0,82.0,89.0,94.0,89.0,88.0,94.0,City: Midsize,"20,000 and above",9
+Michigan State University,61.0,80.0,80.0,100.0,65.0,67.0,86.0,77.0,67.0,79.0,City: Small,"20,000 and above",5
+Michigan Technological University,14.0,58.0,55.0,100.0,38.0,44.0,69.0,78.0,75.0,53.0,Town: Remote,"5,000 - 9,999",6
+University of Michigan-Dearborn,50.0,58.0,59.0,50.0,40.0,40.0,59.0,45.0,73.0,67.0,City: Midsize,"5,000 - 9,999",4
+University of Michigan-Flint,100.0,56.0,56.0,,29.0,36.0,51.0,43.0,55.0,41.0,City: Small,"5,000 - 9,999",4
+Northern Michigan University,24.0,29.0,29.0,,28.0,42.0,55.0,50.0,43.0,63.0,Town: Remote,"5,000 - 9,999",6
+Oakland University,83.0,56.0,55.0,67.0,32.0,48.0,62.0,50.0,61.0,58.0,Suburb: Large,"10,000 - 19,999",2
+Saginaw Valley State University,25.0,20.0,20.0,,24.0,52.0,52.0,51.0,46.0,62.0,Suburb: Midsize,"5,000 - 9,999",4
+Wayne State University,33.0,70.0,70.0,100.0,40.0,50.0,64.0,43.0,70.0,59.0,City: Large,"20,000 and above",0
+Western Michigan University,73.0,59.0,58.0,100.0,36.0,47.0,61.0,44.0,20.0,77.0,City: Small,"10,000 - 19,999",2
+Bemidji State University,24.0,20.0,20.0,,27.0,48.0,52.0,37.0,56.0,60.0,Town: Remote,"1,000 - 4,999",6
+Minnesota State University-Mankato,29.0,44.0,45.0,0.0,40.0,40.0,56.0,40.0,38.0,51.0,City: Small,"10,000 - 19,999",2
+Metropolitan State University,,41.0,41.0,,22.0,0.0,42.0,0.0,,20.0,City: Large,"5,000 - 9,999",4
+University of Minnesota-Twin Cities,50.0,83.0,83.0,80.0,78.0,77.0,85.0,82.0,88.0,85.0,City: Large,"20,000 and above",0
+University of Minnesota-Crookston,67.0,100.0,100.0,,0.0,33.0,59.0,63.0,100.0,0.0,Town: Distant,"1,000 - 4,999",8
+University of Minnesota-Duluth,43.0,55.0,53.0,100.0,57.0,51.0,64.0,46.0,50.0,63.0,City: Small,"5,000 - 9,999",4
+University of Minnesota-Morris,36.0,67.0,67.0,,13.0,50.0,63.0,62.0,33.0,29.0,Town: Remote,"1,000 - 4,999",6
+Minnesota State University Moorhead,0.0,43.0,43.0,,40.0,43.0,57.0,52.0,86.0,50.0,Suburb: Midsize,"1,000 - 4,999",1
+Saint Cloud State University,0.0,31.0,31.0,0.0,29.0,32.0,46.0,24.0,67.0,69.0,City: Small,"10,000 - 19,999",2
+Southwest Minnesota State University,50.0,22.0,25.0,0.0,14.0,18.0,51.0,40.0,36.0,21.0,Town: Remote,"5,000 - 9,999",6
+Winona State University,25.0,48.0,48.0,,33.0,55.0,63.0,43.0,67.0,61.0,Town: Distant,"5,000 - 9,999",8
+Alcorn State University,0.0,50.0,100.0,0.0,47.0,0.0,17.0,83.0,,57.0,Rural: Remote,"1,000 - 4,999",3
+Delta State University,,50.0,50.0,,38.0,29.0,50.0,43.0,,67.0,Town: Remote,"1,000 - 4,999",6
+Jackson State University,0.0,0.0,0.0,,34.0,40.0,30.0,33.0,,81.0,City: Midsize,"5,000 - 9,999",4
+University of Mississippi,71.0,72.0,74.0,0.0,49.0,63.0,71.0,56.0,,83.0,Town: Remote,"20,000 and above",6
+Mississippi University for Women,100.0,0.0,0.0,,35.0,0.0,53.0,,,22.0,Town: Remote,"1,000 - 4,999",6
+Mississippi Valley State University,100.0,33.0,50.0,0.0,25.0,33.0,27.0,25.0,27.0,,Town: Remote,"1,000 - 4,999",6
+Mississippi State University,38.0,62.0,60.0,75.0,44.0,57.0,70.0,55.0,69.0,65.0,Town: Remote,"20,000 and above",6
+University of Southern Mississippi,50.0,56.0,56.0,,41.0,54.0,60.0,32.0,50.0,43.0,City: Small,"10,000 - 19,999",2
+University of Central Missouri,50.0,58.0,70.0,0.0,39.0,37.0,56.0,44.0,68.0,69.0,Town: Distant,"10,000 - 19,999",8
+Harris-Stowe State University,100.0,50.0,50.0,,19.0,29.0,31.0,17.0,25.0,,City: Large,"1,000 - 4,999",1
+Lincoln University,40.0,33.0,33.0,,25.0,25.0,45.0,18.0,19.0,67.0,City: Small,"1,000 - 4,999",1
+Missouri Southern State University,32.0,58.0,70.0,0.0,23.0,35.0,38.0,15.0,32.0,53.0,City: Small,"1,000 - 4,999",1
+Missouri Western State University,25.0,18.0,11.0,50.0,36.0,31.0,42.0,42.0,50.0,50.0,City: Small,"1,000 - 4,999",1
+University of Missouri-Columbia,69.0,74.0,75.0,50.0,65.0,67.0,77.0,73.0,81.0,79.0,City: Midsize,"20,000 and above",9
+University of Missouri-Kansas City,0.0,81.0,81.0,100.0,40.0,50.0,54.0,57.0,70.0,71.0,City: Large,"10,000 - 19,999",2
+Missouri University of Science and Technology,50.0,75.0,75.0,,50.0,62.0,62.0,46.0,60.0,57.0,Town: Remote,"5,000 - 9,999",6
+University of Missouri-St Louis,50.0,61.0,61.0,,34.0,50.0,55.0,38.0,67.0,71.0,Suburb: Large,"10,000 - 19,999",2
+Truman State University,89.0,76.0,77.0,50.0,62.0,76.0,73.0,53.0,64.0,54.0,Town: Remote,"1,000 - 4,999",6
+Northwest Missouri State University,50.0,71.0,80.0,50.0,27.0,35.0,56.0,46.0,64.0,79.0,Town: Remote,"5,000 - 9,999",6
+Southeast Missouri State University,33.0,37.0,37.0,,39.0,46.0,60.0,45.0,71.0,63.0,City: Small,"5,000 - 9,999",4
+Missouri State University-Springfield,33.0,60.0,62.0,0.0,38.0,51.0,61.0,43.0,50.0,65.0,City: Midsize,"20,000 and above",9
+Montana State University Billings,18.0,17.0,25.0,0.0,7.0,13.0,33.0,19.0,0.0,14.0,City: Midsize,"1,000 - 4,999",1
+Montana Technological University,75.0,50.0,50.0,,0.0,57.0,57.0,0.0,67.0,56.0,Town: Remote,"1,000 - 4,999",6
+Montana State University,33.0,50.0,52.0,0.0,29.0,49.0,59.0,46.0,59.0,38.0,Town: Remote,"10,000 - 19,999",6
+The University of Montana,23.0,36.0,27.0,67.0,37.0,36.0,49.0,34.0,42.0,53.0,City: Small,"5,000 - 9,999",4
+Montana State University-Northern,23.0,33.0,100.0,0.0,0.0,23.0,33.0,0.0,17.0,50.0,Town: Remote,"1,000 - 4,999",6
+The University of Montana-Western,18.0,33.0,50.0,0.0,0.0,38.0,48.0,33.0,0.0,,Town: Remote,"1,000 - 4,999",6
+Chadron State College,0.0,33.0,100.0,0.0,22.0,30.0,49.0,27.0,75.0,29.0,Town: Remote,"1,000 - 4,999",6
+University of Nebraska at Kearney,0.0,80.0,80.0,,22.0,47.0,57.0,35.0,50.0,48.0,Town: Distant,"5,000 - 9,999",8
+University of Nebraska at Omaha,25.0,63.0,65.0,33.0,33.0,43.0,51.0,37.0,67.0,69.0,City: Large,"10,000 - 19,999",2
+University of Nebraska-Lincoln,60.0,63.0,63.0,67.0,45.0,54.0,67.0,59.0,60.0,72.0,City: Large,"20,000 and above",0
+Peru State College,0.0,50.0,50.0,,15.0,7.0,44.0,13.0,,0.0,Rural: Distant,"1,000 - 4,999",7
+Wayne State College,100.0,60.0,60.0,,30.0,27.0,55.0,33.0,100.0,,Town: Distant,"1,000 - 4,999",8
+University of Nevada-Las Vegas,33.0,58.0,59.0,25.0,33.0,44.0,48.0,43.0,20.0,71.0,City: Midsize,"20,000 and above",9
+University of Nevada-Reno,62.0,70.0,71.0,47.0,60.0,58.0,63.0,61.0,56.0,46.0,City: Large,"20,000 and above",0
+University of New Hampshire-Main Campus,83.0,80.0,80.0,,70.0,73.0,78.0,86.0,76.0,63.0,Suburb: Small,"10,000 - 19,999",9
+Keene State College,0.0,69.0,67.0,100.0,31.0,50.0,60.0,32.0,69.0,,Town: Distant,"1,000 - 4,999",8
+University of New Hampshire at Manchester,,60.0,60.0,,0.0,50.0,69.0,50.0,50.0,,City: Midsize,"Under 1,000",1
+Plymouth State University,56.0,69.0,82.0,0.0,34.0,40.0,52.0,68.0,48.0,32.0,Town: Remote,"1,000 - 4,999",6
+Granite State College,0.0,,,,0.0,0.0,15.0,50.0,50.0,,Town: Fringe,"1,000 - 4,999",1
+Rowan University,50.0,75.0,75.0,100.0,48.0,60.0,73.0,61.0,51.0,53.0,Suburb: Large,"10,000 - 19,999",5
+New Jersey City University,20.0,58.0,58.0,60.0,32.0,35.0,43.0,57.0,51.0,67.0,City: Large,"5,000 - 9,999",4
+Kean University,50.0,60.0,61.0,0.0,43.0,49.0,61.0,48.0,48.0,47.0,Suburb: Large,"10,000 - 19,999",2
+Montclair State University,50.0,63.0,63.0,50.0,59.0,62.0,70.0,71.0,70.0,57.0,Suburb: Large,"20,000 and above",5
+New Jersey Institute of Technology,100.0,79.0,79.0,,65.0,67.0,74.0,76.0,83.0,70.0,City: Large,"10,000 - 19,999",0
+Ramapo College of New Jersey,71.0,66.0,66.0,,57.0,69.0,72.0,25.0,64.0,57.0,Suburb: Large,"5,000 - 9,999",5
+Rutgers University-Camden,100.0,80.0,79.0,100.0,53.0,54.0,70.0,62.0,58.0,63.0,City: Small,"5,000 - 9,999",5
+Rutgers University-New Brunswick,50.0,89.0,89.0,80.0,80.0,74.0,85.0,81.0,81.0,84.0,City: Small,"20,000 and above",5
+Rutgers University-Newark,0.0,70.0,71.0,33.0,59.0,61.0,72.0,68.0,68.0,71.0,City: Large,"10,000 - 19,999",2
+Stockton University,33.0,80.0,79.0,100.0,71.0,70.0,78.0,69.0,73.0,,Suburb: Midsize,"5,000 - 9,999",5
+The College of New Jersey,,83.0,83.0,,78.0,80.0,88.0,100.0,87.0,100.0,Suburb: Large,"5,000 - 9,999",5
+William Paterson University of New Jersey,100.0,63.0,63.0,100.0,46.0,51.0,63.0,55.0,43.0,100.0,Suburb: Large,"5,000 - 9,999",5
+Eastern New Mexico University-Main Campus,54.0,40.0,50.0,33.0,25.0,39.0,45.0,38.0,50.0,75.0,Town: Remote,"5,000 - 9,999",6
+Institute of American Indian and Alaska Native Culture and Arts Development,26.0,,,,,0.0,,50.0,0.0,,Rural: Fringe,"Under 1,000",1
+New Mexico Highlands University,16.0,50.0,50.0,,4.0,29.0,31.0,20.0,0.0,30.0,Town: Remote,"1,000 - 4,999",6
+New Mexico Institute of Mining and Technology,27.0,75.0,75.0,,50.0,50.0,59.0,57.0,50.0,100.0,Town: Remote,"1,000 - 4,999",6
+University of New Mexico-Main Campus,29.0,70.0,70.0,86.0,42.0,50.0,56.0,48.0,57.0,60.0,City: Large,"20,000 and above",0
+New Mexico State University-Main Campus,38.0,63.0,63.0,,41.0,50.0,54.0,45.0,53.0,64.0,Suburb: Midsize,"10,000 - 19,999",2
+Western New Mexico University,20.0,23.0,23.0,,25.0,31.0,28.0,50.0,38.0,67.0,Town: Remote,"1,000 - 4,999",6
+CUNY Bernard M Baruch College,100.0,81.0,81.0,50.0,56.0,74.0,69.0,47.0,,71.0,City: Large,"10,000 - 19,999",0
+CUNY Brooklyn College,100.0,59.0,59.0,50.0,53.0,50.0,58.0,55.0,,32.0,City: Large,"10,000 - 19,999",2
+College of Staten Island CUNY,22.0,43.0,43.0,67.0,22.0,32.0,45.0,23.0,,33.0,City: Large,"10,000 - 19,999",2
+CUNY City College,67.0,61.0,62.0,20.0,65.0,55.0,54.0,59.0,,64.0,City: Large,"10,000 - 19,999",2
+CUNY Hunter College,67.0,59.0,59.0,42.0,47.0,53.0,59.0,53.0,,62.0,City: Large,"20,000 and above",0
+CUNY John Jay College of Criminal Justice,60.0,58.0,59.0,44.0,52.0,53.0,53.0,48.0,,49.0,City: Large,"10,000 - 19,999",2
+CUNY Lehman College,25.0,59.0,58.0,100.0,55.0,52.0,51.0,33.0,,76.0,City: Large,"10,000 - 19,999",2
+CUNY Medgar Evers College,20.0,40.0,40.0,,25.0,19.0,11.0,31.0,,26.0,City: Large,"1,000 - 4,999",1
+CUNY New York City College of Technology,15.0,28.0,27.0,62.0,18.0,19.0,25.0,16.0,,28.0,City: Large,"10,000 - 19,999",2
+CUNY Queens College,38.0,58.0,58.0,67.0,51.0,48.0,64.0,59.0,,49.0,City: Large,"10,000 - 19,999",2
+CUNY York College,88.0,34.0,32.0,90.0,32.0,32.0,42.0,14.0,,30.0,City: Large,"5,000 - 9,999",4
+SUNY College of Technology at Canton,19.0,25.0,33.0,0.0,29.0,31.0,46.0,56.0,43.0,77.0,Town: Remote,"1,000 - 4,999",6
+SUNY College of Technology at Delhi,50.0,36.0,44.0,0.0,36.0,37.0,49.0,48.0,39.0,82.0,Town: Remote,"1,000 - 4,999",6
+SUNY College of Agriculture and Technology at Cobleskill,25.0,43.0,43.0,,31.0,29.0,51.0,32.0,,0.0,Town: Distant,"1,000 - 4,999",8
+Farmingdale State College,100.0,57.0,57.0,50.0,52.0,53.0,55.0,44.0,33.0,42.0,Suburb: Large,"5,000 - 9,999",4
+SUNY at Albany,17.0,67.0,68.0,25.0,70.0,63.0,65.0,60.0,73.0,60.0,City: Small,"10,000 - 19,999",2
+Binghamton University,75.0,80.0,80.0,,75.0,82.0,85.0,82.0,68.0,76.0,Suburb: Midsize,"10,000 - 19,999",5
+University at Buffalo,56.0,77.0,77.0,100.0,64.0,63.0,74.0,62.0,77.0,79.0,Suburb: Large,"20,000 and above",5
+Stony Brook University,50.0,85.0,85.0,100.0,74.0,75.0,76.0,63.0,86.0,72.0,Suburb: Large,"20,000 and above",5
+SUNY College of Environmental Science and Forestry,,78.0,88.0,0.0,50.0,57.0,74.0,46.0,63.0,89.0,City: Midsize,"1,000 - 4,999",9
+SUNY Polytechnic Institute,,65.0,68.0,0.0,58.0,46.0,64.0,63.0,,,Suburb: Midsize,"1,000 - 4,999",5
+SUNY Brockport,50.0,65.0,69.0,0.0,55.0,51.0,66.0,55.0,64.0,63.0,Town: Fringe,"5,000 - 9,999",4
+SUNY Buffalo State University,10.0,30.0,31.0,0.0,38.0,28.0,43.0,21.0,,41.0,City: Large,"5,000 - 9,999",4
+SUNY Cortland,33.0,50.0,50.0,,59.0,69.0,70.0,58.0,73.0,100.0,Town: Distant,"5,000 - 9,999",8
+SUNY at Fredonia,80.0,59.0,63.0,0.0,46.0,51.0,63.0,58.0,77.0,29.0,Town: Distant,"1,000 - 4,999",8
+SUNY College at Geneseo,,68.0,68.0,,61.0,64.0,77.0,69.0,83.0,54.0,Town: Distant,"1,000 - 4,999",8
+State University of New York at New Paltz,,72.0,73.0,0.0,78.0,72.0,74.0,57.0,60.0,80.0,Suburb: Large,"5,000 - 9,999",5
+SUNY Oneonta,80.0,78.0,77.0,100.0,60.0,68.0,77.0,69.0,79.0,67.0,Town: Remote,"5,000 - 9,999",5
+State University of New York at Oswego,71.0,61.0,62.0,0.0,55.0,54.0,68.0,67.0,67.0,66.0,Town: Distant,"5,000 - 9,999",8
+SUNY College at Potsdam,60.0,58.0,61.0,0.0,47.0,41.0,54.0,38.0,40.0,67.0,Town: Remote,"1,000 - 4,999",6
+SUNY at Purchase College,,68.0,70.0,50.0,71.0,57.0,72.0,58.0,53.0,93.0,Suburb: Large,"1,000 - 4,999",5
+SUNY College at Old Westbury,100.0,58.0,58.0,100.0,48.0,43.0,53.0,29.0,55.0,33.0,Suburb: Large,"1,000 - 4,999",1
+SUNY College at Plattsburgh,100.0,73.0,73.0,,56.0,57.0,68.0,33.0,59.0,75.0,Town: Distant,"1,000 - 4,999",8
+Empire State University,0.0,25.0,25.0,,20.0,25.0,29.0,25.0,0.0,,Suburb: Small,"5,000 - 9,999",4
+SUNY Maritime College,,46.0,46.0,,42.0,76.0,75.0,78.0,67.0,100.0,City: Large,"1,000 - 4,999",0
+United States Merchant Marine Academy,75.0,63.0,59.0,100.0,100.0,62.0,81.0,,100.0,50.0,Suburb: Large,"Under 1,000",5
+Appalachian State University,46.0,79.0,78.0,100.0,71.0,70.0,76.0,69.0,82.0,82.0,Town: Distant,"20,000 and above",5
+East Carolina University,54.0,75.0,74.0,86.0,61.0,62.0,67.0,54.0,64.0,67.0,City: Small,"20,000 and above",5
+Elizabeth City State University,100.0,,,,41.0,60.0,33.0,50.0,80.0,0.0,Town: Distant,"1,000 - 4,999",8
+Fayetteville State University,45.0,55.0,60.0,0.0,43.0,42.0,49.0,75.0,48.0,0.0,City: Midsize,"5,000 - 9,999",4
+North Carolina A & T State University,50.0,13.0,13.0,,58.0,57.0,57.0,38.0,73.0,58.0,City: Large,"10,000 - 19,999",2
+University of North Carolina at Asheville,0.0,52.0,50.0,100.0,39.0,60.0,61.0,50.0,60.0,67.0,City: Small,"1,000 - 4,999",2
+University of North Carolina at Chapel Hill,85.0,93.0,93.0,,89.0,90.0,92.0,89.0,94.0,88.0,City: Small,"20,000 and above",5
+University of North Carolina at Charlotte,60.0,72.0,71.0,100.0,72.0,67.0,70.0,67.0,82.0,71.0,City: Large,"20,000 and above",0
+University of North Carolina at Greensboro,67.0,63.0,63.0,67.0,60.0,59.0,57.0,50.0,71.0,63.0,City: Large,"10,000 - 19,999",2
+North Carolina Central University,25.0,67.0,67.0,,45.0,47.0,48.0,34.0,26.0,67.0,City: Large,"5,000 - 9,999",4
+University of North Carolina School of the Arts,100.0,100.0,100.0,,93.0,87.0,80.0,82.0,0.0,100.0,City: Midsize,"1,000 - 4,999",9
+North Carolina State University at Raleigh,70.0,88.0,88.0,67.0,77.0,84.0,85.0,82.0,87.0,88.0,City: Large,"20,000 and above",0
+University of North Carolina Wilmington,50.0,73.0,73.0,67.0,69.0,72.0,75.0,70.0,69.0,60.0,City: Midsize,"10,000 - 19,999",9
+University of North Carolina at Pembroke,47.0,50.0,53.0,0.0,48.0,40.0,43.0,40.0,42.0,0.0,Town: Distant,"5,000 - 9,999",8
+Winston-Salem State University,0.0,100.0,100.0,,52.0,42.0,50.0,25.0,38.0,50.0,City: Midsize,"5,000 - 9,999",4
+Western Carolina University,44.0,59.0,63.0,33.0,47.0,58.0,63.0,44.0,58.0,75.0,Town: Distant,"10,000 - 19,999",8
+Dickinson State University,0.0,0.0,,0.0,25.0,31.0,48.0,14.0,100.0,40.0,Town: Remote,"1,000 - 4,999",6
+Mayville State University,,0.0,,0.0,0.0,29.0,42.0,17.0,100.0,50.0,Rural: Remote,"1,000 - 4,999",3
+Minot State University,0.0,29.0,33.0,0.0,21.0,29.0,45.0,33.0,67.0,68.0,Town: Remote,"1,000 - 4,999",6
+University of North Dakota,40.0,69.0,69.0,,39.0,58.0,64.0,69.0,64.0,39.0,City: Small,"10,000 - 19,999",2
+North Dakota State University-Main Campus,50.0,57.0,57.0,50.0,36.0,48.0,65.0,53.0,65.0,73.0,City: Midsize,"10,000 - 19,999",2
+Valley City State University,0.0,0.0,,0.0,22.0,50.0,51.0,33.0,100.0,43.0,Town: Remote,"1,000 - 4,999",6
+University of Akron Main Campus,9.0,66.0,66.0,,20.0,35.0,54.0,36.0,47.0,60.0,City: Midsize,"10,000 - 19,999",2
+Bowling Green State University-Main Campus,0.0,73.0,76.0,50.0,43.0,51.0,65.0,45.0,61.0,69.0,Town: Fringe,"10,000 - 19,999",2
+Central State University,,,,,24.0,25.0,0.0,33.0,60.0,100.0,Rural: Fringe,"5,000 - 9,999",4
+University of Cincinnati-Main Campus,50.0,79.0,79.0,50.0,63.0,67.0,73.0,69.0,62.0,75.0,City: Large,"20,000 and above",0
+Cleveland State University,0.0,56.0,57.0,0.0,25.0,41.0,55.0,38.0,53.0,66.0,City: Large,"10,000 - 19,999",2
+Kent State University at Kent,57.0,73.0,73.0,67.0,54.0,61.0,66.0,65.0,65.0,60.0,Suburb: Large,"20,000 and above",5
+Miami University-Hamilton,50.0,33.0,33.0,,18.0,12.0,20.0,17.0,17.0,0.0,Suburb: Large,"1,000 - 4,999",1
+Miami University-Middletown,0.0,50.0,50.0,,0.0,44.0,23.0,45.0,17.0,0.0,Suburb: Small,"1,000 - 4,999",1
+Miami University-Oxford,44.0,80.0,80.0,100.0,68.0,83.0,83.0,76.0,73.0,71.0,Town: Fringe,"10,000 - 19,999",5
+Ohio State University-Lima Campus,0.0,38.0,38.0,,11.0,25.0,23.0,6.0,6.0,100.0,Rural: Fringe,"Under 1,000",1
+Ohio State University-Marion Campus,0.0,11.0,12.0,0.0,36.0,8.0,18.0,0.0,20.0,0.0,Town: Distant,"Under 1,000",1
+Ohio State University-Main Campus,100.0,92.0,92.0,100.0,76.0,85.0,89.0,81.0,87.0,88.0,City: Large,"20,000 and above",0
+Ohio University-Main Campus,40.0,68.0,68.0,,58.0,62.0,66.0,55.0,68.0,57.0,Town: Distant,"20,000 and above",8
+Shawnee State University,25.0,50.0,50.0,,12.0,17.0,38.0,24.0,45.0,20.0,Town: Fringe,"1,000 - 4,999",1
+University of Toledo,0.0,67.0,67.0,,28.0,39.0,61.0,42.0,55.0,71.0,City: Large,"10,000 - 19,999",2
+Wright State University-Main Campus,0.0,40.0,40.0,50.0,28.0,34.0,49.0,29.0,57.0,43.0,Suburb: Large,"5,000 - 9,999",4
+Wright State University-Lake Campus,,50.0,100.0,0.0,0.0,0.0,45.0,0.0,0.0,,Rural: Fringe,"1,000 - 4,999",1
+Youngstown State University,0.0,77.0,80.0,0.0,31.0,37.0,52.0,28.0,60.0,33.0,City: Small,"10,000 - 19,999",2
+Cameron University,19.0,22.0,40.0,0.0,16.0,17.0,28.0,25.0,38.0,39.0,City: Small,"1,000 - 4,999",1
+University of Central Oklahoma,33.0,43.0,46.0,20.0,23.0,31.0,42.0,33.0,,17.0,Suburb: Large,"10,000 - 19,999",2
+East Central University,31.0,100.0,100.0,,17.0,16.0,43.0,33.0,29.0,15.0,Town: Remote,"1,000 - 4,999",6
+Langston University,29.0,100.0,100.0,,25.0,100.0,54.0,20.0,7.0,6.0,Rural: Distant,"1,000 - 4,999",7
+Northeastern State University,36.0,29.0,31.0,0.0,32.0,28.0,41.0,37.0,100.0,56.0,Town: Remote,"5,000 - 9,999",6
+Northwestern Oklahoma State University,11.0,0.0,0.0,,21.0,29.0,37.0,33.0,42.0,1.0,Town: Remote,"1,000 - 4,999",6
+Oklahoma Panhandle State University,25.0,100.0,100.0,,7.0,25.0,22.0,46.0,0.0,0.0,Rural: Distant,"1,000 - 4,999",7
+Oklahoma State University-Main Campus,58.0,65.0,67.0,33.0,50.0,55.0,69.0,55.0,56.0,78.0,Town: Distant,"20,000 and above",8
+University of Oklahoma-Norman Campus,63.0,81.0,81.0,100.0,66.0,73.0,78.0,73.0,76.0,74.0,Suburb: Midsize,"20,000 and above",5
+Rogers State University,23.0,0.0,0.0,0.0,12.0,17.0,28.0,25.0,25.0,11.0,Town: Fringe,"1,000 - 4,999",1
+University of Science and Arts of Oklahoma,22.0,50.0,50.0,,25.0,53.0,42.0,39.0,50.0,31.0,Town: Distant,"Under 1,000",8
+Southeastern Oklahoma State University,30.0,60.0,50.0,100.0,9.0,19.0,38.0,47.0,,19.0,Town: Distant,"5,000 - 9,999",8
+Southwestern Oklahoma State University,24.0,56.0,57.0,50.0,24.0,33.0,43.0,38.0,26.0,23.0,Town: Remote,"1,000 - 4,999",6
+Eastern Oregon University,43.0,38.0,50.0,25.0,14.0,36.0,41.0,31.0,,0.0,Town: Remote,"1,000 - 4,999",6
+Oregon Institute of Technology,100.0,55.0,60.0,0.0,50.0,41.0,60.0,50.0,80.0,64.0,Town: Remote,"1,000 - 4,999",6
+Oregon State University,50.0,77.0,78.0,54.0,46.0,63.0,71.0,68.0,60.0,63.0,City: Small,"20,000 and above",5
+University of Oregon,62.0,77.0,79.0,58.0,59.0,68.0,75.0,68.0,82.0,80.0,City: Midsize,"20,000 and above",9
+Portland State University,25.0,63.0,64.0,45.0,53.0,50.0,52.0,50.0,75.0,47.0,City: Large,"20,000 and above",0
+Southern Oregon University,75.0,56.0,75.0,17.0,54.0,44.0,46.0,47.0,47.0,42.0,Suburb: Midsize,"5,000 - 9,999",4
+Western Oregon University,50.0,38.0,41.0,35.0,21.0,55.0,48.0,100.0,56.0,67.0,Town: Fringe,"1,000 - 4,999",1
+Cheyney University of Pennsylvania,,,,,15.0,13.0,0.0,13.0,23.0,,Suburb: Large,"Under 1,000",1
+East Stroudsburg University of Pennsylvania,100.0,59.0,61.0,0.0,39.0,39.0,51.0,31.0,29.0,,City: Small,"5,000 - 9,999",4
+Indiana University of Pennsylvania-Main Campus,50.0,57.0,59.0,0.0,24.0,43.0,60.0,43.0,31.0,45.0,Town: Distant,"5,000 - 9,999",8
+Kutztown University of Pennsylvania,75.0,47.0,47.0,,28.0,44.0,61.0,41.0,56.0,71.0,Town: Fringe,"5,000 - 9,999",4
+Lincoln University,0.0,,,,44.0,40.0,25.0,33.0,37.0,94.0,Suburb: Large,"1,000 - 4,999",1
+Millersville University of Pennsylvania,33.0,57.0,57.0,,47.0,43.0,60.0,62.0,43.0,60.0,Suburb: Large,"5,000 - 9,999",4
+Pennsylvania State University-Penn State Erie-Behrend College,0.0,24.0,24.0,,31.0,45.0,52.0,44.0,40.0,5.0,Suburb: Midsize,"1,000 - 4,999",1
+Pennsylvania State University-Penn State New Kensington,,0.0,0.0,,0.0,33.0,31.0,17.0,50.0,0.0,Rural: Fringe,"Under 1,000",1
+Pennsylvania State University-Penn State Shenango,,,,,0.0,50.0,22.0,0.0,50.0,,Suburb: Large,"Under 1,000",1
+Pennsylvania State University-Penn State Wilkes-Barre,,0.0,0.0,,18.0,20.0,23.0,0.0,0.0,0.0,Rural: Fringe,"Under 1,000",1
+Pennsylvania State University-Penn State Scranton,,44.0,44.0,,17.0,31.0,34.0,33.0,100.0,0.0,Suburb: Large,"Under 1,000",1
+Pennsylvania State University-Penn State Lehigh Valley,0.0,15.0,15.0,,0.0,12.0,13.0,18.0,25.0,0.0,Suburb: Large,"Under 1,000",1
+Pennsylvania State University-Penn State Altoona,,2.0,2.0,,13.0,11.0,19.0,10.0,0.0,5.0,City: Small,"1,000 - 4,999",1
+Pennsylvania State University-Penn State Beaver,,0.0,0.0,,6.0,27.0,24.0,23.0,,0.0,Suburb: Large,"Under 1,000",1
+Pennsylvania State University-Penn State Berks,0.0,44.0,47.0,0.0,26.0,28.0,38.0,24.0,29.0,0.0,Suburb: Large,"1,000 - 4,999",1
+Pennsylvania State University-Penn State Harrisburg,,27.0,27.0,0.0,22.0,31.0,41.0,25.0,18.0,5.0,Suburb: Large,"1,000 - 4,999",1
+Pennsylvania State University-Penn State Brandywine,,24.0,24.0,,23.0,41.0,24.0,44.0,0.0,0.0,Suburb: Large,"1,000 - 4,999",1
+Pennsylvania State University-Penn State Fayette- Eberly,100.0,50.0,0.0,100.0,0.0,29.0,33.0,29.0,0.0,0.0,Suburb: Small,"Under 1,000",1
+Pennsylvania State University-Penn State Hazleton,,5.0,6.0,0.0,8.0,17.0,20.0,0.0,25.0,,Suburb: Small,"Under 1,000",1
+Pennsylvania State University-Main Campus,63.0,79.0,80.0,50.0,68.0,76.0,85.0,74.0,87.0,84.0,City: Small,"20,000 and above",5
+Pennsylvania State University-Penn State Greater Allegheny,,33.0,33.0,,15.0,17.0,24.0,0.0,0.0,25.0,Suburb: Large,"Under 1,000",1
+Pennsylvania State University-Penn State Mont Alto,,25.0,25.0,,6.0,22.0,32.0,0.0,0.0,0.0,Town: Fringe,"Under 1,000",1
+Pennsylvania State University-Penn State Abington,100.0,26.0,26.0,0.0,23.0,35.0,37.0,27.0,71.0,5.0,Suburb: Large,"1,000 - 4,999",1
+Pennsylvania State University-Penn State Schuylkill,,20.0,20.0,,20.0,17.0,31.0,50.0,,0.0,Town: Distant,"Under 1,000",1
+Pennsylvania State University-Penn State York,,6.0,6.0,0.0,12.0,0.0,13.0,23.0,20.0,2.0,Suburb: Midsize,"Under 1,000",1
+University of Pittsburgh-Bradford,,28.0,28.0,,28.0,27.0,51.0,27.0,58.0,8.0,Town: Remote,"1,000 - 4,999",6
+University of Pittsburgh-Greensburg,,30.0,30.0,,13.0,38.0,43.0,21.0,63.0,20.0,Suburb: Large,"1,000 - 4,999",1
+University of Pittsburgh-Johnstown,100.0,31.0,33.0,0.0,23.0,24.0,53.0,45.0,45.0,29.0,Suburb: Small,"1,000 - 4,999",1
+University of Pittsburgh-Pittsburgh Campus,100.0,89.0,89.0,,79.0,72.0,84.0,84.0,83.0,77.0,City: Large,"20,000 and above",0
+Shippensburg University of Pennsylvania,0.0,45.0,50.0,0.0,24.0,41.0,57.0,47.0,30.0,50.0,Town: Fringe,"5,000 - 9,999",4
+Slippery Rock University of Pennsylvania,17.0,85.0,83.0,100.0,45.0,59.0,69.0,63.0,56.0,25.0,Town: Distant,"5,000 - 9,999",8
+Temple University,80.0,80.0,80.0,83.0,67.0,70.0,81.0,67.0,78.0,78.0,City: Large,"20,000 and above",0
+West Chester University of Pennsylvania,,84.0,85.0,50.0,57.0,58.0,75.0,62.0,72.0,80.0,Suburb: Large,"10,000 - 19,999",5
+Rhode Island College,29.0,63.0,63.0,50.0,30.0,35.0,49.0,43.0,44.0,75.0,Suburb: Large,"5,000 - 9,999",4
+University of Rhode Island,57.0,71.0,71.0,0.0,57.0,58.0,75.0,63.0,75.0,70.0,Suburb: Large,"10,000 - 19,999",2
+College of Charleston,70.0,71.0,72.0,67.0,58.0,60.0,65.0,76.0,64.0,63.0,City: Midsize,"10,000 - 19,999",9
+Citadel Military College of South Carolina,83.0,69.0,73.0,50.0,56.0,66.0,73.0,63.0,100.0,50.0,City: Midsize,"1,000 - 4,999",9
+Clemson University,100.0,88.0,88.0,,69.0,76.0,87.0,85.0,100.0,78.0,Suburb: Large,"20,000 and above",5
+Francis Marion University,0.0,33.0,33.0,,34.0,44.0,45.0,36.0,,23.0,Suburb: Small,"1,000 - 4,999",1
+Lander University,100.0,50.0,50.0,,31.0,56.0,51.0,33.0,17.0,33.0,Town: Distant,"1,000 - 4,999",8
+University of South Carolina Aiken,33.0,80.0,75.0,100.0,39.0,42.0,44.0,24.0,71.0,45.0,Suburb: Large,"1,000 - 4,999",1
+University of South Carolina Beaufort,0.0,33.0,33.0,,32.0,44.0,39.0,42.0,55.0,57.0,Town: Fringe,"1,000 - 4,999",1
+University of South Carolina-Columbia,60.0,81.0,82.0,71.0,74.0,79.0,79.0,69.0,73.0,79.0,City: Midsize,"20,000 and above",9
+Coastal Carolina University,50.0,67.0,67.0,,40.0,50.0,50.0,44.0,40.0,57.0,City: Small,"10,000 - 19,999",2
+South Carolina State University,25.0,0.0,0.0,,34.0,25.0,70.0,,,,Town: Distant,"1,000 - 4,999",8
+University of South Carolina-Upstate,,47.0,44.0,100.0,37.0,43.0,48.0,40.0,33.0,36.0,Suburb: Midsize,"1,000 - 4,999",1
+Winthrop University,100.0,38.0,38.0,,53.0,56.0,66.0,62.0,,60.0,City: Small,"1,000 - 4,999",5
+Black Hills State University,15.0,20.0,25.0,0.0,11.0,27.0,49.0,39.0,67.0,25.0,Town: Distant,"1,000 - 4,999",8
+Dakota State University,25.0,33.0,33.0,,38.0,57.0,53.0,15.0,0.0,50.0,Town: Distant,"1,000 - 4,999",8
+Northern State University,11.0,60.0,60.0,,17.0,47.0,56.0,27.0,,36.0,Town: Remote,"1,000 - 4,999",6
+South Dakota School of Mines and Technology,0.0,50.0,50.0,,50.0,50.0,57.0,38.0,,83.0,City: Small,"1,000 - 4,999",2
+South Dakota State University,13.0,50.0,47.0,100.0,36.0,37.0,61.0,46.0,50.0,48.0,Town: Remote,"10,000 - 19,999",6
+Sinte Gleska University,10.0,,,,,,0.0,,,,Rural: Remote,"Under 1,000",3
+University of South Dakota,13.0,50.0,60.0,0.0,45.0,43.0,62.0,30.0,0.0,55.0,Town: Distant,"5,000 - 9,999",8
+Austin Peay State University,0.0,58.0,58.0,,38.0,37.0,47.0,37.0,24.0,,City: Midsize,"5,000 - 9,999",4
+East Tennessee State University,50.0,71.0,74.0,0.0,34.0,31.0,58.0,51.0,50.0,48.0,City: Small,"10,000 - 19,999",2
+The University of Tennessee Southern,,0.0,0.0,0.0,10.0,43.0,34.0,13.0,50.0,50.0,Town: Distant,"Under 1,000",1
+University of Memphis,64.0,69.0,69.0,,36.0,52.0,56.0,45.0,51.0,59.0,City: Large,"20,000 and above",0
+Middle Tennessee State University,50.0,63.0,63.0,100.0,47.0,50.0,58.0,49.0,67.0,52.0,City: Midsize,"20,000 and above",9
+The University of Tennessee-Chattanooga,33.0,58.0,59.0,0.0,46.0,46.0,53.0,52.0,50.0,50.0,City: Midsize,"10,000 - 19,999",2
+The University of Tennessee-Knoxville,55.0,84.0,84.0,83.0,61.0,65.0,74.0,58.0,74.0,76.0,City: Midsize,"20,000 and above",9
+The University of Tennessee-Martin,50.0,43.0,43.0,,43.0,52.0,56.0,30.0,,16.0,Town: Remote,"5,000 - 9,999",6
+Tennessee State University,0.0,0.0,0.0,,32.0,23.0,44.0,18.0,0.0,68.0,City: Large,"5,000 - 9,999",4
+Tennessee Technological University,50.0,72.0,72.0,,38.0,56.0,62.0,53.0,63.0,57.0,Town: Remote,"5,000 - 9,999",6
+Angelo State University,71.0,56.0,63.0,0.0,32.0,38.0,45.0,28.0,,46.0,City: Small,"10,000 - 19,999",2
+Texas A & M University-Corpus Christi,20.0,32.0,33.0,0.0,34.0,34.0,37.0,29.0,22.0,67.0,City: Large,"10,000 - 19,999",2
+Texas A&M University-Texarkana,,50.0,45.0,100.0,22.0,36.0,28.0,27.0,20.0,0.0,Rural: Fringe,"1,000 - 4,999",1
+Texas A & M University-Commerce,25.0,22.0,19.0,50.0,37.0,48.0,44.0,43.0,43.0,67.0,Town: Distant,"10,000 - 19,999",8
+University of Houston-Clear Lake,0.0,56.0,56.0,,50.0,55.0,53.0,25.0,0.0,100.0,Suburb: Large,"5,000 - 9,999",4
+University of Houston-Downtown,,22.0,23.0,0.0,30.0,32.0,29.0,13.0,13.0,57.0,City: Large,"10,000 - 19,999",2
+University of Houston-Victoria,,29.0,29.0,,16.0,24.0,32.0,8.0,,33.0,City: Small,"1,000 - 4,999",1
+University of Houston,0.0,72.0,72.0,100.0,56.0,58.0,61.0,61.0,77.0,66.0,City: Large,"20,000 and above",0
+Lamar University,40.0,61.0,61.0,50.0,24.0,41.0,44.0,35.0,38.0,46.0,City: Midsize,"10,000 - 19,999",2
+Texas A & M International University,0.0,57.0,67.0,0.0,0.0,50.0,27.0,50.0,,50.0,City: Large,"5,000 - 9,999",4
+Midwestern State University,25.0,33.0,38.0,0.0,23.0,40.0,47.0,38.0,,64.0,City: Midsize,"5,000 - 9,999",4
+University of North Texas,60.0,64.0,64.0,50.0,58.0,57.0,60.0,53.0,31.0,69.0,City: Midsize,"20,000 and above",9
+The University of Texas Rio Grande Valley,,68.0,68.0,50.0,47.0,52.0,50.0,56.0,63.0,68.0,City: Midsize,"20,000 and above",9
+Prairie View A & M University,57.0,42.0,39.0,100.0,41.0,40.0,36.0,55.0,50.0,78.0,Town: Distant,"5,000 - 9,999",8
+Sam Houston State University,75.0,46.0,49.0,0.0,48.0,56.0,61.0,58.0,83.0,64.0,Town: Distant,"20,000 and above",8
+Stephen F Austin State University,27.0,56.0,58.0,33.0,42.0,50.0,59.0,51.0,50.0,8.0,Town: Remote,"10,000 - 19,999",6
+Texas State University,67.0,59.0,58.0,70.0,49.0,53.0,60.0,54.0,100.0,88.0,City: Small,"20,000 and above",5
+Sul Ross State University,50.0,100.0,,100.0,4.0,28.0,34.0,0.0,0.0,,Town: Remote,"1,000 - 4,999",6
+Tarleton State University,50.0,42.0,42.0,,37.0,43.0,48.0,45.0,25.0,100.0,Town: Remote,"10,000 - 19,999",6
+Texas A & M University-Kingsville,0.0,40.0,60.0,0.0,31.0,45.0,45.0,42.0,33.0,50.0,Town: Distant,"5,000 - 9,999",8
+Texas A & M University-College Station,95.0,87.0,87.0,67.0,71.0,78.0,86.0,80.0,80.0,88.0,City: Midsize,"20,000 and above",9
+The University of Texas at Arlington,83.0,63.0,63.0,,49.0,50.0,51.0,51.0,50.0,67.0,City: Large,"20,000 and above",0
+The University of Texas at Austin,79.0,91.0,91.0,80.0,84.0,82.0,90.0,88.0,95.0,87.0,City: Large,"20,000 and above",0
+The University of Texas at Dallas,50.0,80.0,80.0,67.0,62.0,61.0,68.0,64.0,70.0,37.0,City: Midsize,"20,000 and above",9
+The University of Texas at El Paso,33.0,69.0,68.0,100.0,27.0,46.0,50.0,36.0,32.0,76.0,City: Large,"20,000 and above",0
+The University of Texas at Tyler,33.0,50.0,50.0,,35.0,47.0,51.0,34.0,13.0,50.0,City: Midsize,"5,000 - 9,999",4
+The University of Texas Permian Basin,,33.0,33.0,,20.0,41.0,35.0,40.0,0.0,61.0,City: Midsize,"5,000 - 9,999",4
+The University of Texas at San Antonio,43.0,56.0,56.0,50.0,56.0,54.0,49.0,48.0,70.0,63.0,City: Large,"20,000 and above",0
+Texas Southern University,13.0,33.0,40.0,0.0,25.0,23.0,34.0,,100.0,63.0,City: Large,"5,000 - 9,999",4
+Texas Tech University,62.0,63.0,64.0,38.0,64.0,58.0,66.0,63.0,66.0,70.0,City: Large,"20,000 and above",0
+Texas Woman's University,100.0,64.0,65.0,0.0,39.0,45.0,54.0,43.0,80.0,40.0,City: Midsize,"10,000 - 19,999",2
+West Texas A & M University,20.0,63.0,71.0,0.0,26.0,40.0,49.0,45.0,38.0,75.0,Town: Fringe,"5,000 - 9,999",4
+Utah State University,28.0,51.0,51.0,50.0,22.0,42.0,57.0,50.0,60.0,38.0,City: Small,"20,000 and above",2
+University of Utah,44.0,66.0,70.0,33.0,62.0,56.0,66.0,66.0,75.0,72.0,City: Midsize,"20,000 and above",9
+Castleton University,0.0,40.0,40.0,,13.0,33.0,55.0,63.0,60.0,43.0,Town: Distant,"1,000 - 4,999",8
+Northern Vermont University,33.0,75.0,67.0,100.0,25.0,50.0,39.0,43.0,24.0,100.0,Rural: Distant,"1,000 - 4,999",7
+University of Vermont,,70.0,70.0,,71.0,67.0,77.0,72.0,75.0,63.0,City: Small,"10,000 - 19,999",2
+William & Mary,100.0,92.0,92.0,,85.0,91.0,92.0,92.0,95.0,81.0,Suburb: Small,"5,000 - 9,999",9
+Christopher Newport University,67.0,80.0,79.0,100.0,72.0,69.0,79.0,56.0,70.0,71.0,City: Midsize,"1,000 - 4,999",9
+George Mason University,100.0,78.0,79.0,50.0,69.0,69.0,68.0,66.0,70.0,69.0,Suburb: Large,"20,000 and above",5
+James Madison University,100.0,83.0,83.0,100.0,78.0,78.0,82.0,76.0,76.0,71.0,City: Small,"20,000 and above",5
+Longwood University,50.0,58.0,55.0,100.0,60.0,70.0,69.0,65.0,48.0,14.0,Town: Remote,"1,000 - 4,999",6
+University of Mary Washington,,69.0,72.0,0.0,46.0,68.0,71.0,80.0,70.0,50.0,Suburb: Midsize,"1,000 - 4,999",5
+Norfolk State University,0.0,0.0,0.0,,40.0,39.0,31.0,34.0,36.0,78.0,City: Midsize,"5,000 - 9,999",4
+Old Dominion University,25.0,66.0,66.0,60.0,45.0,44.0,52.0,41.0,42.0,56.0,City: Midsize,"20,000 and above",9
+Radford University,43.0,42.0,46.0,20.0,50.0,45.0,57.0,56.0,78.0,27.0,Suburb: Small,"5,000 - 9,999",4
+University of Virginia's College at Wise,50.0,100.0,100.0,,29.0,0.0,48.0,,48.0,,Town: Distant,"1,000 - 4,999",8
+Virginia Polytechnic Institute and State University,75.0,87.0,87.0,100.0,81.0,83.0,88.0,84.0,81.0,78.0,City: Small,"20,000 and above",5
+Virginia Commonwealth University,60.0,75.0,75.0,33.0,63.0,59.0,64.0,60.0,65.0,56.0,City: Midsize,"20,000 and above",9
+University of Virginia-Main Campus,100.0,98.0,98.0,100.0,88.0,95.0,96.0,91.0,95.0,93.0,Suburb: Small,"20,000 and above",9
+Virginia Military Institute,60.0,72.0,75.0,50.0,74.0,67.0,78.0,100.0,,67.0,Town: Distant,"1,000 - 4,999",8
+Virginia State University,,,,,28.0,,50.0,,44.0,,Suburb: Large,"1,000 - 4,999",1
+Central Washington University,38.0,44.0,50.0,25.0,35.0,53.0,54.0,52.0,50.0,78.0,Town: Distant,"5,000 - 9,999",8
+Eastern Washington University,35.0,34.0,41.0,8.0,42.0,46.0,52.0,50.0,43.0,55.0,Town: Fringe,"10,000 - 19,999",2
+The Evergreen State College,57.0,53.0,53.0,,36.0,34.0,42.0,33.0,62.0,50.0,Suburb: Midsize,"1,000 - 4,999",1
+Washington State University,47.0,63.0,64.0,40.0,49.0,54.0,66.0,48.0,70.0,63.0,Town: Distant,"20,000 and above",8
+University of Washington-Seattle Campus,74.0,86.0,86.0,74.0,75.0,78.0,85.0,83.0,68.0,89.0,City: Large,"20,000 and above",0
+Western Washington University,54.0,64.0,65.0,43.0,60.0,61.0,66.0,60.0,80.0,80.0,City: Small,"10,000 - 19,999",2
+Bluefield State University,,0.0,0.0,,14.0,33.0,38.0,30.0,,,Town: Distant,"1,000 - 4,999",8
+Concord University,50.0,0.0,0.0,,10.0,25.0,43.0,33.0,100.0,36.0,Town: Distant,"1,000 - 4,999",8
+Fairmont State University,33.0,71.0,67.0,100.0,17.0,,49.0,49.0,0.0,,Town: Distant,"1,000 - 4,999",8
+Marshall University,82.0,77.0,75.0,100.0,38.0,47.0,51.0,35.0,50.0,71.0,City: Small,"10,000 - 19,999",2
+Shepherd University,50.0,14.0,14.0,,36.0,51.0,49.0,53.0,38.0,100.0,Town: Fringe,"1,000 - 4,999",1
+West Virginia State University,50.0,15.0,20.0,0.0,26.0,14.0,42.0,25.0,50.0,,Suburb: Midsize,"1,000 - 4,999",1
+West Liberty University,,50.0,33.0,100.0,50.0,100.0,71.0,24.0,45.0,33.0,Rural: Fringe,"1,000 - 4,999",1
+West Virginia University Institute of Technology,100.0,0.0,0.0,,26.0,31.0,32.0,13.0,0.0,78.0,City: Small,"1,000 - 4,999",1
+West Virginia University,88.0,65.0,64.0,100.0,35.0,53.0,65.0,51.0,100.0,65.0,City: Small,"20,000 and above",5
+University of Wisconsin-Whitewater,0.0,60.0,61.0,0.0,35.0,54.0,64.0,48.0,100.0,43.0,Town: Distant,"10,000 - 19,999",8
+University of Wisconsin-Eau Claire,80.0,60.0,60.0,,50.0,51.0,66.0,60.0,,50.0,City: Small,"10,000 - 19,999",2
+University of Wisconsin-Green Bay,33.0,43.0,43.0,,18.0,50.0,54.0,64.0,0.0,47.0,City: Midsize,"5,000 - 9,999",4
+University of Wisconsin-La Crosse,100.0,53.0,53.0,,65.0,52.0,71.0,63.0,33.0,71.0,City: Small,"10,000 - 19,999",2
+University of Wisconsin-Oshkosh,40.0,49.0,48.0,67.0,37.0,53.0,60.0,48.0,25.0,33.0,City: Small,"10,000 - 19,999",2
+University of Wisconsin-Parkside,0.0,70.0,73.0,0.0,32.0,33.0,43.0,17.0,,67.0,Suburb: Midsize,"1,000 - 4,999",1
+University of Wisconsin-Stout,50.0,33.0,32.0,100.0,24.0,34.0,55.0,33.0,67.0,38.0,Town: Distant,"5,000 - 9,999",8
+University of Wisconsin-Superior,0.0,100.0,100.0,,20.0,20.0,41.0,24.0,,46.0,Suburb: Midsize,"1,000 - 4,999",1
+University of Wisconsin-Madison,55.0,90.0,90.0,86.0,81.0,82.0,90.0,88.0,100.0,92.0,City: Large,"20,000 and above",0
+University of Wisconsin-Milwaukee,20.0,52.0,52.0,50.0,33.0,41.0,52.0,35.0,,45.0,City: Large,"20,000 and above",0
+University of Wisconsin-Platteville,0.0,43.0,43.0,,19.0,46.0,63.0,58.0,,32.0,Town: Distant,"5,000 - 9,999",8
+University of Wisconsin-River Falls,100.0,41.0,38.0,100.0,26.0,48.0,61.0,41.0,33.0,45.0,Town: Distant,"5,000 - 9,999",8
+University of Wisconsin-Stevens Point,40.0,42.0,43.0,0.0,30.0,42.0,59.0,47.0,,35.0,Town: Distant,"5,000 - 9,999",8
+University of Wyoming,38.0,44.0,47.0,0.0,42.0,46.0,64.0,54.0,56.0,51.0,Town: Remote,"10,000 - 19,999",6
+Purdue University-Main Campus,100.0,85.0,85.0,56.0,82.0,77.0,83.0,81.0,83.0,86.0,City: Small,"20,000 and above",5
+University of Massachusetts Global,,,,,,,50.0,,,,City: Large,"5,000 - 9,999",4
+New College of Florida,,78.0,78.0,,70.0,45.0,68.0,100.0,0.0,60.0,City: Small,"Under 1,000",5
+California State University-San Marcos,33.0,62.0,63.0,33.0,46.0,55.0,59.0,56.0,57.0,52.0,Suburb: Large,"10,000 - 19,999",2
+University of Washington-Bothell Campus,100.0,76.0,76.0,75.0,69.0,61.0,66.0,60.0,78.0,65.0,Suburb: Large,"5,000 - 9,999",5
+University of Washington-Tacoma Campus,33.0,60.0,60.0,64.0,64.0,51.0,54.0,43.0,60.0,50.0,City: Midsize,"1,000 - 4,999",9
+California State University-Monterey Bay,100.0,60.0,60.0,50.0,64.0,65.0,55.0,60.0,44.0,53.0,Suburb: Midsize,"5,000 - 9,999",5
+Florida Gulf Coast University,86.0,57.0,58.0,50.0,58.0,56.0,60.0,48.0,50.0,63.0,Suburb: Large,"10,000 - 19,999",2
+University of Connecticut-Waterbury Campus,,77.0,77.0,,52.0,43.0,65.0,43.0,43.0,50.0,Suburb: Midsize,"Under 1,000",5
+University of Connecticut-Avery Point,,75.0,75.0,,42.0,27.0,64.0,44.0,50.0,,Suburb: Midsize,"Under 1,000",1
+University of Connecticut-Stamford,,78.0,78.0,,51.0,57.0,65.0,83.0,40.0,65.0,City: Midsize,"1,000 - 4,999",9
+Oregon State University-Cascades Campus,0.0,100.0,100.0,,,0.0,62.0,,,,City: Small,"1,000 - 4,999",2
+Nevada State College,33.0,8.0,5.0,33.0,20.0,34.0,40.0,63.0,26.0,,Rural: Fringe,"5,000 - 9,999",1
+California State University-Channel Islands,0.0,52.0,53.0,0.0,28.0,54.0,64.0,60.0,71.0,48.0,Suburb: Midsize,"5,000 - 9,999",4
+University of Arkansas Grantham,0.0,100.0,100.0,,19.0,32.0,46.0,57.0,19.0,,City: Midsize,"5,000 - 9,999",4
+University of California-Merced,,79.0,79.0,75.0,78.0,64.0,65.0,60.0,56.0,66.0,Rural: Fringe,"5,000 - 9,999",5
+Georgia Gwinnett College,0.0,18.0,18.0,0.0,13.0,24.0,24.0,26.0,21.0,31.0,Suburb: Large,"10,000 - 19,999",1
+University of Minnesota-Rochester,,63.0,63.0,,50.0,63.0,59.0,25.0,,100.0,City: Midsize,"Under 1,000",9
+Texas A&M University-San Antonio,0.0,0.0,0.0,,22.0,32.0,38.0,29.0,,38.0,Rural: Fringe,"5,000 - 9,999",1
+University of Connecticut-Hartford Campus,50.0,74.0,74.0,,55.0,44.0,66.0,47.0,58.0,89.0,City: Midsize,"1,000 - 4,999",9
+Pennsylvania State University-World Campus,0.0,25.0,25.0,,13.0,27.0,39.0,33.0,100.0,67.0,City: Small,"10,000 - 19,999",2
+Augusta University,50.0,68.0,68.0,50.0,44.0,51.0,49.0,45.0,50.0,69.0,City: Midsize,"5,000 - 9,999",4
+Middle Georgia State University,0.0,18.0,19.0,0.0,17.0,37.0,30.0,18.0,25.0,27.0,City: Midsize,"5,000 - 9,999",4
+University of North Georgia,29.0,34.0,35.0,17.0,25.0,36.0,40.0,35.0,20.0,30.0,Town: Distant,"10,000 - 19,999",8
+Florida Polytechnic University,,42.0,36.0,100.0,50.0,45.0,48.0,,52.0,,Rural: Fringe,"1,000 - 4,999",1
+University of Florida-Online,,81.0,85.0,0.0,69.0,80.0,79.0,79.0,75.0,,City: Midsize,"5,000 - 9,999",9
+University of North Texas at Dallas,,13.0,13.0,,32.0,49.0,33.0,25.0,,25.0,City: Large,"1,000 - 4,999",1
+Kennesaw State University,50.0,55.0,55.0,67.0,49.0,44.0,45.0,43.0,38.0,67.0,Suburb: Large,"20,000 and above",5
+Purdue University Global,,0.0,0.0,,0.0,0.0,24.0,0.0,33.0,0.0,City: Small,"20,000 and above",1
+Purdue University Northwest,25.0,58.0,58.0,,29.0,42.0,47.0,40.0,43.0,57.0,Suburb: Large,"5,000 - 9,999",4
+Commonwealth University of Pennsylvania,38.0,58.0,58.0,,30.0,40.0,59.0,43.0,43.0,43.0,City: Small,"10,000 - 19,999",2
+Pennsylvania Western University,50.0,48.0,46.0,67.0,24.0,37.0,53.0,33.0,49.0,27.0,Suburb: Small,"10,000 - 19,999",2
