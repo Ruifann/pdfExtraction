@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8131e4b9-db18-402e-8334-2eeaaaef0ba4" name="Changes" comment="Sixth Commit: Population Clustering">
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/CSV_Graduation_Rate_All_Schools.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/Population_Clustering_All_University.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Population_Cluster/public_schools_clusters.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_Univ_Diversity_Clustering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_0_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_1_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_2_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_3_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_4_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_5_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/All_University_Clustered_Stack_Pie_Chart/Cluster_6_stacked_barh_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/CSV_Graduation_Rate_All_Universities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/CSV_Population_Diversity_for_All_Universities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Graduation_Rate_Clustering_All_Universities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Graduation_Rate_Clustering_Private_Universities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Graduation_Rate_Clustering_Public_Universities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/School_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Updated_Population_Diversity_with_Clusters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/Updated_Population_Diversity_with_Clusters_no_scaling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/private_schools_clusters_no_scaling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/private_schools_feature_distribution.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/private_schools_new_clusters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/private_university_clusters_combined_kmeans_2d_no_scaling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/public_schools_new_clusters.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/public_schools_new_clusters_no_scaling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined_kmeans_2d_no_scaling.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/University_Clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/University_Clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" beforeDir="false" afterPath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Population_Cluster/CSV_Graduation_Rate_All_Schools.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Population_Cluster/Population_Clustering_All_University.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Population_Cluster/university_clusters_combined.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +79,15 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.ACHA_Analysis.executor&quot;: &quot;Run&quot;,
     &quot;Python.ACHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.All_Univ_Diversity_Clustering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graduation_Rate_Clustering_All_Universities.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graduation_Rate_Clustering_Private_Universities.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graduation_Rate_Clustering_Public_Universities.executor&quot;: &quot;Run&quot;,
     &quot;Python.NCHA_Analysis.executor&quot;: &quot;Run&quot;,
     &quot;Python.NCHA_Executive_Summary.executor&quot;: &quot;Run&quot;,
     &quot;Python.Population_Clustering_All_University.executor&quot;: &quot;Run&quot;,
     &quot;Python.Retention_Rate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.School_Search.executor&quot;: &quot;Run&quot;,
     &quot;Python.The_Healthy_Minds_Study_Data_Report.executor&quot;: &quot;Run&quot;,
     &quot;Python.USC_CDS_2022.executor&quot;: &quot;Run&quot;,
     &quot;Python.University_Clustering.executor&quot;: &quot;Run&quot;,
@@ -72,6 +96,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowPlots.ShowToolbar&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;grid.search.filter.rows&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/wangruifan/Desktop/pdfExtraction&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -89,14 +114,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Population_Cluster" />
       <recent name="$PROJECT_DIR$/Retention_Rate_Cluster" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -136,6 +162,13 @@
       <workItem from="1721070185687" duration="2325000" />
       <workItem from="1721074789240" duration="9374000" />
       <workItem from="1721092283099" duration="737000" />
+      <workItem from="1721249202878" duration="5973000" />
+      <workItem from="1721260693338" duration="8545000" />
+      <workItem from="1721271770567" duration="7896000" />
+      <workItem from="1722215916590" duration="73000" />
+      <workItem from="1722225126710" duration="12862000" />
+      <workItem from="1722240224972" duration="4693000" />
+      <workItem from="1722245019419" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -209,26 +242,21 @@
     <MESSAGE value="Sixth Commit: Population Clustering" />
     <option name="LAST_COMMIT_MESSAGE" value="Sixth Commit: Population Clustering" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Population_Cluster/University_Clustering.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Executive_Summary.coverage" NAME="ACHA_Executive_Summary Coverage Results" MODIFIED="1718349147977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$USC_CDS_2022.coverage" NAME="USC_CDS_2022 Coverage Results" MODIFIED="1718349936045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$The_Healthy_Minds_Study_Data_Report.coverage" NAME="The_Healthy_Minds_Study_Data_Report Coverage Results" MODIFIED="1718349661157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$Retention_Rate.coverage" NAME="Retention_Rate Coverage Results" MODIFIED="1720735767392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retention_Rate_Cluster" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Executive_Summary.coverage" NAME="NCHA_Executive_Summary Coverage Results" MODIFIED="1718925796328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1719002241209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pdfExtraction$University_Clustering.coverage" NAME="University_Clustering Coverage Results" MODIFIED="1720731306146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
     <SUITE FILE_PATH="coverage/pdfExtraction$main.coverage" NAME="main Coverage Results" MODIFIED="1718073532775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$All_Univ_Diversity_Clustering.coverage" NAME="All_Univ_Diversity_Clustering Coverage Results" MODIFIED="1722244894339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$Graduation_Rate_Clustering_All_Universities.coverage" NAME="Graduation_Rate_Clustering_All_Universities Coverage Results" MODIFIED="1721324601637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$School_Search.coverage" NAME="School_Search Coverage Results" MODIFIED="1722243514582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Analysis.coverage" NAME="NCHA_Analysis Coverage Results" MODIFIED="1719002241209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$Graduation_Rate_Clustering_Private_Universities.coverage" NAME="Graduation_Rate_Clustering_Private_Universities Coverage Results" MODIFIED="1722243382321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$The_Healthy_Minds_Study_Data_Report.coverage" NAME="The_Healthy_Minds_Study_Data_Report Coverage Results" MODIFIED="1718349661157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Analysis.coverage" NAME="ACHA_Analysis Coverage Results" MODIFIED="1718957055554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$Graduation_Rate_Clustering_Public_Universities.coverage" NAME="Graduation_Rate_Clustering_Public_Universities Coverage Results" MODIFIED="1722243395490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$University_Clustering.coverage" NAME="University_Clustering Coverage Results" MODIFIED="1720731306146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$ACHA_Executive_Summary.coverage" NAME="ACHA_Executive_Summary Coverage Results" MODIFIED="1718349147977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdfExtraction$NCHA_Executive_Summary.coverage" NAME="NCHA_Executive_Summary Coverage Results" MODIFIED="1718925796328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pdfExtraction$Population_Clustering_All_University.coverage" NAME="Population_Clustering_All_University Coverage Results" MODIFIED="1721092296667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Population_Cluster" />
   </component>
 </project>
